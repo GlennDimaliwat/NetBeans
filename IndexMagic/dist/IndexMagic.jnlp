@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="IndexMagic.jnlp">
+  <information>
+    <title>IndexMagic</title>
+    <vendor>Glenn Dimaliwat</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="IndexMagic.jar" size="31565" download="eager" />
+    <jar href="lib/deploy.jar" size="4230196" download="eager" />
+    <jar href="lib/javaws.jar" size="894198" download="eager" />
+    <jar href="lib/jfxrt.jar" size="15092678" download="eager" />
+    <jar href="lib/jtds-1.2.5.jar" size="302284" download="eager" />
+    <jar href="lib/plugin.jar" size="1905758" download="eager" />
+    <jar href="lib/poi-3.9-20121203.jar" size="1869113" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="IndexMagic" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="indexmagic.Main"  name="IndexMagic" />
+  <update check="always"/>
+</jnlp>

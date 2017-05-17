@@ -1,0 +1,2474 @@
+000006|BARANDA, ARTURO CELSO D.|Logistics
+000007|ESTRELLADO, RANDOLPH T.|Finance
+000008|CONSUNJI, HERBERT M.|Office of the COO
+000009|PUNZALAN ESPIRITU, LOURDES MARIVIC K.|Legal and Regulatory Affairs
+000025|Gustilo, Rhea Marie M.|Human Resources
+000117|ABAD, ROMEO C.|Business Area Operations
+004440|DE LUNA, ELSA A.|Business Area Operations
+005140|ABESAMIS, RODEL N.|Business Area Operations
+005447|ABINSAY, MARIA MENCHIE Z.|Business Area Operations
+006049|ABLAZA, JORGE C.|Wastewater Management
+006346|ABLIR, LORENZO T.|Logistics
+010108|NADADO, LOVERIZZA E.|Finance
+010120|ACOSTA, ROLANDO E.|Water Supply Operations
+010207|PABILONA, JO-ANN R.|Human Resources
+010209|GURPIDO, JHOTER O.|Central NRW Management
+010309|DE LEON JR, ALFREDO M.|Central NRW Management
+010409|DE GUZMAN JR, ALBERTO M.|Central NRW Management
+010509|MANAHAN, LEVIE C.|Central NRW Management
+010607|MACASAET, LIBERTY M.|Program Management
+010608|SUAREZ, EDMOND S.|Finance
+010707|RUEDA, JENNEYFER A.|Business Area Operations
+010709|MOZO, JOV I.|Central NRW Management
+010808|BRIONES, LIZA R.|Finance
+010907|BATOON, NORLAN G.|Finance
+010909|SANCHEZ, RYAN DAVE D.|Central NRW Management
+011009|COLAR, ANTHONY R.|Central NRW Management
+011109|MIVA, SANDY M.|Central NRW Management
+011209|RAMIDO, RICK C.|Central NRW Management
+011309|NICODEMUS, JOANNA R.|Central NRW Management
+011320|ADALIA JR., PEDRO C.|Business Area Operations
+011509|GINETE, ANGELO B.|Central NRW Management
+011609|CAMPO, PETER ERWIN C.|Central NRW Management
+011668|ADORO, EMILY M.|Finance
+011709|BOMBASE, CRIS B.|Central NRW Management
+011817|ADRIANO JR., ALFREDO D.|Wastewater Management
+012002|ADALIN JR., RODRIGO V.|Business Area Operations
+012009|GANAL, CRISTOPHER O.|Program Management
+012209|ROBLEDO, JOSE MARIA S.|Central NRW Management
+012409|LAMSIS, KRISTINA D.|Central NRW Management
+012809|DE LEON, JUAN PAULO T.|Technical Services
+012909|RANOCO, CHARLIE G.|Program Management
+013009|REYES, GIAN CARLO P.|Corporate Quality, Envt, Health & Safety
+013309|BALANA, EDSON R.|Central NRW Management
+013409|CASTRO JR, EDILBERTO M.|Central NRW Management
+013425|AGALABIA, DIOSDADO C.|Water Supply Operations
+013700|AGANON, KERWIN T.|Water Supply Operations
+013809|BOYO JR, JAIME A.|Central NRW Management
+013909|CASIANO, WILSON V.|Central NRW Management
+013978|AGATON, ERWIN R.|Business Area Operations
+014009|JERESANO, RAYMOND P.|Central NRW Management
+014109|CABREJAS, JAYSON T.|Central NRW Management
+014209|TORRAZO, GIRLIE C.|Corporate Quality, Envt, Health & Safety
+014309|CAJURAO, RACHELLE R.|Finance
+014745|AGIDO, GENERANDO M.|Central NRW Management
+015891|MALAPAD, MAXIMA A.|Business Area Operations
+015982|AGUDULO, ARNULFO M.|Business Area Operations
+016550|AGUILAR, BERNARDO A.|Wastewater Management
+020107|DIAMANTE, EVANGELINE W.|Human Resources
+020109|CANETE, ELMER C.|Central NRW Management
+020408|AMANO, ARNOLD B.|Commercial and Marketing
+020508|GABATINO, GUILLERMO C.|Business Area Operations
+020609|DALLUAY, JAN VINCENT C.|Program Management
+020708|INTAL, JULIUS S.|Business Area Operations
+020808|SUGANOB, ROXANNE C.|Logistics
+020809|SOTOMAYOR JR., ANTONIO D.|Central NRW Management
+021107|MARIANO, ANDREWS L.|Business Area Operations
+021808|AGUIRRE, EDMUNDO S.|Water Supply Operations
+023911|AGUSTIN, ARTHUR D.|Business Area Operations
+024570|AGUSTIN, RONALD C.|Wastewater Management
+025882|ALAMAG, GAUDENCIO B.|Business Area Operations
+028654|ALBA, FERNANDO C.|Business Area Operations
+030107|VILLON, JOSE MARI D.|Technical Services
+030109|MILLAVE, REMIEL ALLAN A.|Water Supply Operations
+030209|GALVEZ, JUSTINE IVAN D.|Central NRW Management
+030309|FAJARDO, MICHAEL JAY N.|Wastewater Management
+030509|RAFLORES, CARLOS JOHN M.|Central NRW Management
+030609|NAVERA, ANGELO Z.|Business Area Operations
+030708|BULIGAN, MICHAEL JOSEPH R.|Water Supply Operations
+030807|MANRIQUE, GEMMA S.|Water Supply Operations
+030808|BALAG, JAYMAR M.|Logistics
+031000|ALBAYALDE, VICTOR B.|Program Management
+031009|ANGELES, PAUL WARREN T.|Business Area Operations
+031109|RAMOS, ABNER LORD B.|Business Area Operations
+031209|MENDOZA, SHERLYN D.|Business Area Operations
+031309|CORDERO, NILO S.|Business Area Operations
+031409|DILOY, ROVIE A.|Business Area Operations
+031509|SUPENA, MAGITING M.|Business Area Operations
+031609|GLORIANE, RENSON D.|Central NRW Management
+031709|ROSARDA, WILJANE J.|Business Area Operations
+031809|TALENS, KATHERINE P.|Business Area Operations
+031909|CANDELARIA, PAULINE C.|Business Area Operations
+032003|PARAMEO, MARIEFE C.|Technical Services
+032006|CORRALES, CRISTOTEL D.|Program Management
+032009|ORTEGA, JAMEEL MARI M.|Business Area Operations
+032109|BALLIAO, GLADY MAE F.|Business Area Operations
+032309|TORRECAMPO, ANTHONY D.|Business Area Operations
+032409|PANLAQUI, ARTHUR D.|Business Area Operations
+032490|ALCANTARA, ARNOLD F.|Business Area Operations
+032509|POBLETE, MARDY F.|Business Area Operations
+032609|REAS, SARA MAY R.|Business Area Operations
+032709|SUNGLAO, RAYMOND D.|Technical Services
+032909|CASTILLO, REO O.|Business Area Operations
+033109|CALURA, JIMMY A.|Business Area Operations
+033209|LAGUERTA, ANNALIE S.|Business Area Operations
+033309|PERMITO, WILLIE S.|Business Area Operations
+033409|MALAAY, ROEL M.|Business Area Operations
+033609|SABATIN, IVY G.|Business Area Operations
+033709|FRANDO, FERDINAND L.|Business Area Operations
+033731|RAGO, BELACILA A.|Business Area Operations
+034033|ALCANTARA JR., SALVADOR A.|Business Area Operations
+034109|CASCO JR., JOSE P.|Program Management
+037358|ALEJO, CLEMENTE C.|Business Area Operations
+037756|ARELLANO, ROWENA A.|Finance
+040209|BUAGAS, SENDY F.|Water Supply Operations
+040308|ISRAEL, LONDON-PHILIP L.|Water Supply Operations
+040408|BENITO, JOHN MICHAEL Y.|Central NRW Management
+040409|BELGA, MELDREB L.|Business Area Operations
+040507|DELA CRUZ JR, WILBERT D.|Central NRW Management
+040508|JALANDONI, JUAN JOSELITO A.|Human Resources
+040509|MENESES, RICARDO C.|Business Area Operations
+040607|DINGLASAN, GRACELYN F.|Central NRW Management
+040708|YDIA, JUVELENE C.|Water Supply Operations
+040808|VALDIVIA JR, RICARDO A.|Logistics
+040809|PERDON, ROWELL P.|Corporate Quality, Envt, Health & Safety
+040907|LAJATO, JUNO B.|Corporate Quality, Envt, Health & Safety
+040909|FELICES, JIMER R.|Corporate Quality, Envt, Health & Safety
+041009|TOLENTINO, CYD D.|Business Area Operations
+041109|RUMA, JESSIE L.|Business Area Operations
+041207|DEL ROSARIO, VHERRSIE O.|Business Area Operations
+041209|Dayao, Jay T.|Business Area Operations
+041309|CLAUDIO, GERLIE P.|Business Area Operations
+041409|NERI, PAUL P.|Business Area Operations
+041507|SANTOS, RAISSA R.|Finance
+041607|SUNGA, WILFRIDA T.|Central NRW Management
+041609|ALONEN, MARLO L.|Business Area Operations
+041709|ANOVA, RAYMOND P.|Central NRW Management
+041809|SERRANO, ROMERO JEFFREY S.|Water Supply Operations
+041909|RAMOS, MAXIMO JOSE M.|Business Area Operations
+042209|PANTALEON, PAOLO A.|Business Area Operations
+042309|DEL MUNDO, RODEL M.|Business Area Operations
+042609|DEL CASTILLO, ERWIN L.|Program Management
+042709|MARZO, RYAN C.|Business Area Operations
+042909|PORQUEZ, SIR CHARLES V.|Information Technology Services
+043009|GALLARDO, STEPHENSON E.|Technical Services
+043309|YABUT III, NICOLAS D.|Business Area Operations
+043609|AVENDANO, WARREN DENNIS B.|Central NRW Management
+043809|AMORADO, LLOYD E.|Water Supply Operations
+043909|AGLIPAY, DENNIS M.|Business Area Operations
+044209|CARNITES, SITO C.|Water Supply Operations
+045914|ALTEA, NOLI M.|Business Area Operations
+047560|ALVAREZ, JOEFFREY L.|Water Supply Operations
+048364|ALVARO, CONRADO G.|Business Area Operations
+050207|HERRERA, JOHN PAUL S.|Central NRW Management
+050209|CAMONAYAN, GEORGE M.|Central NRW Management
+050309|DELA CRUZ, RAFAELIÑIGO N.|Commercial and Marketing
+050408|BUGARIN, KAREN JOY B.|Central NRW Management
+050409|CARPIZ, FLOR DE LIZA Z.|Business Area Operations
+050435|AMBAGAN, FELICIDAD S.|Business Area Operations
+050508|ALDABA, MARILYN F.|Human Resources
+050509|ADVINCULA, ULLYSIS G.|Business Area Operations
+050567|AMBAT, LEVI R.|Business Area Operations
+050708|CRISTI, RUSSEL M.|Human Resources
+050709|NOLASCO, JASON S.|Technical Services
+050808|VALONDO, ROWEL S.|Business Area Operations
+051107|TANADA, MARIA CARINA D.|Finance
+051209|ADALIN, MARIA NATASSIA R.|Business Area Operations
+051309|TAMAYO, CHRISTINE ANNE A.|Business Area Operations
+051409|DAVID, REY VINCENT F.|Business Area Operations
+051509|LOPEZ, JAN JERVI C.|Technical Services
+051609|TENGCO II, JOHNNY S.|Water Supply Operations
+051909|GUILBERT, MARIANINA CLAUDETTE D.|Legal and Regulatory Affairs
+052006|TOLENTINO, RUSSELLE D.|Central NRW Management
+052009|REYES, ROANNE D.|Water Supply Operations
+052109|ARCINUE, MICHAEL C.|Business Area Operations
+053223|AMIANIT, BERNARDINO M.|Logistics
+053264|AMPIL, JOAQUIN F.|Logistics
+056820|ANDAYA, CRISTINA C.|Finance
+058940|ANDES JR., LEOPOLDO T.|Business Area Operations
+058941|ANDRES, NELSON S.|Central NRW Management
+060107|TALOSIG, GEOFREY M.|Water Supply Operations
+060109|DATONG, ALEXIS MADISON Y.|Corporate Quality, Envt, Health & Safety
+060308|LAUREOLA, WILJEIM B.|Central NRW Management
+060409|ROXAS, JEDD ALLEN D.|Water Supply Operations
+060509|DELOS SANTOS, VINCE ALLEN D.|Business Area Operations
+060607|ALMAZAN, PETER JAMES RIZALINO E.|Water Supply Operations
+060608|LOPEZ, HAROLD R.|Business Area Operations
+060609|PRINCESA, LOUIEJHON A.|Wastewater Management
+060708|CRUZ, ALVIN ROMAN S.|Water Supply Operations
+060709|MARCAIDA, RYMAR HERBERT M.|Business Area Operations
+060807|MALABANAN, BERNADETTE P.|Office of the COO
+060808|CAYABYAB, GHENEVER S.|Business Area Operations
+060909|BATAC, MIKE ANGELO B.|Program Management
+061107|LLABRES, KATRINA S.|Water Supply Operations
+061209|PAULINO, LEAH HANNAH S.|Central NRW Management
+061358|LAXA, GRACE A.|Commercial and Marketing
+061409|DIZON, PATRICK JAMES B.|Program Management
+061465|ANGELES, JOSE V.|Wastewater Management
+061509|CUSTODIO, DARYLL P.|Water Supply Operations
+061609|BALLESTEROS, CRISANTO A.|Program Management
+061809|CARANDANG, FERDINAND REY C.|Wastewater Management
+061909|LONGUED, ABE B.|Central NRW Management
+062002|CHUA, CHRIS JENSEN T.|Wastewater Management
+062006|TACDERAN, MYRA P.|Technical Services
+062109|ESTRADA, KIM REAN L.|Information Technology Services
+062209|FERNANDEZ, DAVID ANDREW B.|Central NRW Management
+062400|ANGELES, REYNALDO C.|Wastewater Management
+062409|CHAVEZ, ROTHEL JOHN S.|Water Supply Operations
+062609|GALEON, NORBEL L.|Information Technology Services
+062709|DE CASTRO, LOURDRIGO O.|Water Supply Operations
+063009|JUMAWAN, ROMER S.|Water Supply Operations
+063115|PATRON, GINA A.|Business Area Operations
+063209|NEPOMUCENO, ERIC M.|Central NRW Management
+063309|GARCIA, DENNIS RAYMOND C.|Wastewater Management
+063509|SANTIAGO, MA. ANGELICA A.|Business Area Operations
+063609|PIEDAD JR., ABSALON F.|Central NRW Management
+063709|MADARANG, ROXANNE R.|Water Supply Operations
+063809|BARCENAS, PRINCESS MAE A.|Business Area Operations
+063909|ISMAEL, KAREN KEITH V.|Business Area Operations
+064109|LORENZO, MEI-LIN F.|Technical Services
+064209|ATIENZA, ABIGAIL CORAZON R.|Wastewater Management
+064409|PEREZ, JOHN MICHAEL B.|Water Supply Operations
+064509|GROSPE, CHARLES FRANKLIN D.|Wastewater Management
+064609|AXALAN, JERIC DANIEL M.|Business Area Operations
+064709|UMALI JR., CELSO P.|Wastewater Management
+064790|ANTIQUE, RONILO T.|Business Area Operations
+064809|BATALLA, ERWIN M.|Business Area Operations
+065309|GARDUQUE, RENIEL A.|Central NRW Management
+065453|PASCUA, ERNESTO V.|Water Supply Operations
+065509|AGUILA, DINGAS REUEL R.|Business Area Operations
+065609|BLANCO, DAN MARK C.|Business Area Operations
+066009|CO, PAUL JOHN M.|Business Area Operations
+066109|PASCUAL, RAIMOND IAN S.|Business Area Operations
+066309|BANDALAN, NOEL R.|Business Area Operations
+066409|ORAIZ, ORLY M.|Business Area Operations
+066609|GOPEZ, PEEJAY R.|Business Area Operations
+066800|ANTONIO, GREG R.|Subsidaries Assignment
+066803|ANTONIO, NAPOLEON M.|Business Area Operations
+066910|ANTONIO JR., PASCUAL P.|Water Supply Operations
+069872|APOLONIO JR., MONICO G.|Water Supply Operations
+069906|APOLONIO, ROLANDO V.|Business Area Operations
+070508|CAJAYON, GODFREY BRYAN S.|Central NRW Management
+070808|CORTEZ, ELMER T.|Business Area Operations
+071498|AQUINO, FLAVIA C.|Business Area Operations
+072004|MARTINEZ, ADORA B.|Human Resources
+072005|ACUNA, DANTE C.|Business Area Operations
+072006|FERRER, BENIDON WINSTON C.|Program Management
+074195|ARADA, ARNEL M.|Finance
+078576|ARCEO, EVA J.|Logistics
+080408|RUFON, RAZEL D.|Finance
+080608|TSAI, EDWIN RYAN C.|Program Management
+080708|DE LEON, MIRLA M.|Water Supply Operations
+080808|MONSALUD, RICHARD B.|Business Area Operations
+081007|ALDAY, PAUL ADRIAN C.|Water Supply Operations
+081158|ARELLANO, QUIRICO A.|Business Area Operations
+081612|ARENAS, SALVADOR H.|Water Supply Operations
+081805|AYSON, EVELYN A.|Finance
+082002|LIBRELLA, MARIA RONA S.|Business Area Operations
+082005|GUARDIANO, PAULO M.|Business Area Operations
+082701|ARGUEL, RICARDO M.|Business Area Operations
+084079|ARMALDA, ANTONIO P.|Business Area Operations
+085782|ASCAN, JUAN L.|Business Area Operations
+085839|ASIATICO, RONELIO P.|Business Area Operations
+086016|ARELLANO, FRANCISCO A.|Corporate Quality, Envt, Health & Safety
+086504|ASPACIO, ESTEBAN H.|Business Area Operations
+090308|VOSOTROS, ARIS A.|Central NRW Management
+090607|BAO, EDISON B.|Program Management
+090708|EMETERIO, MELANIE A.|Business Area Operations
+090807|ALBOS, SHEILA C.|Program Management
+091007|ANDRADE, MICHAEL R.|Technical Services
+091918|AURA, BENJAMIN C.|Technical Services
+092002|MACAHILIG, JILLIAN HENRY RAEL R.|Technical Services
+092005|TUAZON, JOSEPH ROSMON M.|Commercial and Marketing
+095216|AVENDANO, MARIA VANESSA L.|Logistics
+099945|AZARCON, TYRONE K.|Business Area Operations
+100024|AZURIN, ARMANDO M.|Business Area Operations
+100388|BACENA, JOEMAC R.|Business Area Operations
+100408|SAN LUIS, MICHAEL D.|Finance
+100608|CAÑETE, ARIEL A.|Program Management
+100708|EUGENIO, ROSE ANN A.|Business Area Operations
+100808|HERMANO, DENNIS R.|Business Area Operations
+102002|MAMINTA, ALLEN L.|Business Area Operations
+102004|EGUIA, LOREJANE A.|Human Resources
+102005|DANGUE, JUDITH A.|Corporate Quality, Envt, Health & Safety
+102236|BAGACAY, JULIE L.|Program Management
+102301|BAGSIC, GINALIE L.|Business Area Operations
+102808|JERUS, YSRAEL B.|Business Area Operations
+103192|BAJADE, ALEX C.|Logistics
+103226|BAJAR, TEOTIMO B.|Central NRW Management
+104808|DOMINGUEZ JR, NEOPITO D.|Water Supply Operations
+105808|SORIANO, ANTOINE N.|Program Management
+107808|MACAPAGAL, HOWELL D.|Business Area Operations
+108829|BALMORI, ALBERTO A.|Central NRW Management
+108845|BALOBO, MARIO R.|Central NRW Management
+110108|BALAGSO, PAULO G.|Central NRW Management
+110208|BORRAL, ALVIN G.|Program Management
+110308|GARCIA, ERICSON S.|Logistics
+110408|AFUANG, SHIELA MARIE F.|Water Supply Operations
+111007|ESPAYOS, ARCELYN A.|Business Area Operations
+111008|PLURAD, RODELIO G.|Technical Services
+111740|BANAG, ARIEL S.|Business Area Operations
+111856|PALAD, RUBY B.|Business Area Operations
+112004|AGUSTIN II, HENRY S.|Business Area Operations
+112006|PAJANUSTAN, SHEILA FRANCES P.|Program Management
+113808|MAGNO, ANTONIO G.|Central NRW Management
+114808|GUTIB, CHRISTIAN P.|Business Area Operations
+115113|BARAHAN, MARIANITO JR. H.|Water Supply Operations
+115500|BANZON, EDWARD WILFREDO M.|Business Area Operations
+115808|VILLAMER, RYAN E.|Wastewater Management
+116210|BARBASA, ARCELY N.|Business Area Operations
+117333|AMIT, RUBY B.|Business Area Operations
+117499|BARLAAN, JHONIE F.|Wastewater Management
+117564|TOLENTINO, BLESILDA B.|Business Area Operations
+118059|BARRIA, ARSENIO C.|Water Supply Operations
+119508|VELASCO, CHRISTOPHER L.|Logistics
+119708|BONGAY, CHESTER M.|Program Management
+120108|DACUMOS, KRISTEL MAE D.|Business Area Operations
+120408|FUMAR, JOEL F.|Finance
+120451|BARTOLOME, JAIME B.|Business Area Operations
+120708|JUSAY, AIZA D.|Business Area Operations
+120807|ALVAREZ, MARTIN HOMER A.|Wastewater Management
+120808|JALOCON, ARIEL R.|Business Area Operations
+121007|AYROSO, ALEXANDER A.|Business Area Operations
+121046|GONZALES, MAGDALENA M.|Business Area Operations
+121236|BASILIO, VILMA P.|Business Area Operations
+121308|DE GUZMAN, ISAAC A.|Business Area Operations
+122002|REGALADO, JOVEN B.|Program Management
+122004|BOADO, JOEY N.|Business Area Operations
+122006|PUNO, PHILINO C.|Program Management
+122108|TAJAN, MARK ALLAN B.|Business Area Operations
+122308|FELONIA, MARK P.|Central NRW Management
+122708|MARCILLANO, DENNIS A.|Business Area Operations
+122808|ARCE, JOY MARIE C.|Central NRW Management
+123108|RILLERA, MICHELLE LEA R.|Corporate Quality, Envt, Health & Safety
+123208|LAYSON, FELIPE P.|Wastewater Management
+123508|TALINIO, FERNANDO M.|Business Area Operations
+123708|RUBANTE, SHIRLEY L.|Finance
+123908|TALAGTAG, JOEL ALBERT B.|Central NRW Management
+124808|MENDOZA, JAY JOSEPH G.|Central NRW Management
+125808|DE LEON, REX A.|Business Area Operations
+127514|BAUTISTA, FERNANDO H.|Business Area Operations
+130408|GAGARINO, JOSEPHINE U.|Finance
+130708|PEREZ, RHESA ANGELIE M.|Human Resources
+130808|MARIANO, JOHN MARTIN M.|Business Area Operations
+131007|BAJADE, ALEXIS M.|Business Area Operations
+131808|LORENZO JR, POLICARPIO S.|Business Area Operations
+132002|SALAMAT, RONALD JEREMY B.|Central NRW Management
+132004|CAMUA JR, ERIC M.|Business Area Operations
+132808|TAGATAC JR., BERNESTO A.|Water Supply Operations
+134239|BAYTAMO, MARIO F.|Business Area Operations
+134808|MARIANO, MARIONNE KRISTEL U.|Corporate Quality, Envt, Health & Safety
+136808|COSARE, RHEA S.|Business Area Operations
+137808|MASAOY, CHRISTINA M.|Business Area Operations
+138271|BELTRAN, EDUARDO S.|Corporate Quality, Envt, Health & Safety
+140308|GAON, CHRISTOPHER R.|Central NRW Management
+140408|CAPACITE, CARMEL LOU G.|Business Area Operations
+140700|CAPACIO, CHRISTIAN EDWARD P.|Program Management
+140808|REDAJA, REYNALDO B.|Business Area Operations
+141364|BENITO, SALIC P.|Central NRW Management
+141808|NOJALDA, RONEL S.|Water Supply Operations
+142004|CAPIO, AMIEL M.|Business Area Operations
+142005|BAGSIK, CHRISTINE T.|Corporate Quality, Envt, Health & Safety
+142006|SANTOS, ANALIZA V.|Program Management
+142808|DE CASTRO, LARRY M.|Water Supply Operations
+143255|MEDRANO, RESURRECCION B.|Water Supply Operations
+143578|BERNADEZ, JOEL P.|Business Area Operations
+143808|RAMOS, JOEL M.|Water Supply Operations
+144386|BERNARDINO, ROMANA NOEMI V.|Logistics
+145441|BERNARDO, TEODOSIA C.|Finance
+145573|BERROYA, ANGELITO R.|Business Area Operations
+145888|BETITA, BENEDICTO G.|Logistics
+147520|BIYO, ELIZAR B.|Business Area Operations
+148114|BIYO, MILAGROS S.|Business Area Operations
+148601|BODOLLO, JOSE Q.|Business Area Operations
+150136|BONCATO, ARNEL R.|Business Area Operations
+150408|GAYLON, RONULFO G.|Logistics
+150507|MILLAN, ANDREY A.|Water Supply Operations
+150599|BORJA, SUSAN O.|Business Area Operations
+150698|BORJA, FERNANDO C.|Business Area Operations
+150707|DE PASION, PAULA ISABEL N.|Business Area Operations
+150708|PENARANDA, PHILIP T.|Business Area Operations
+150808|RIVERA, RENAN B.|Business Area Operations
+151007|BERDIN, LEONILLE M.|Business Area Operations
+152002|SANTOS, ALVIN MARTIN S.|Central NRW Management
+152004|DE GUZMAN, BERNARD G.|Business Area Operations
+153783|BORROMEO, TAGUMPAY N.|Corporate Quality, Envt, Health & Safety
+153958|BRAVO, ARTEMIO B.|Business Area Operations
+154179|BRIGUEL, HENRY S.|Logistics
+155176|BRIONES, PABLITO M.|Business Area Operations
+155218|BRIONES, OFELIO L.|Business Area Operations
+155234|BRIONES, SONIA C.|Human Resources
+155747|BUCAO JR., PETER A.|Business Area Operations
+156156|BUEN, FLORDIVINO A.|Business Area Operations
+156200|REYES, LORIE B.|Business Area Operations
+158147|BUENAVENTURA JR., ERNESTO B.|Wastewater Management
+158733|BUENAVENTURA, NELSON A.|Business Area Operations
+160408|INDON, CHRISTIAN REGINALD M.|Human Resources
+160708|SIBULO, RUBY JEAN M.|Wastewater Management
+160808|WANIA, JESUS O.|Business Area Operations
+161729|BUNDA, GERARDO C.|Water Supply Operations
+162002|SANTOS, ANGELO PABLO J.|Water Supply Operations
+162004|DELA CRUZ JR, MIGUEL B.|Business Area Operations
+162107|BULAWIN, WILBERT A.|Logistics
+162750|BUSTARDE, JOSE F.|Business Area Operations
+162768|PALISOC, CORAZON B.|Business Area Operations
+162776|BUTALID, SAMUEL C.|Corporate Quality, Envt, Health & Safety
+162784|BUSTARDE, LARRY F.|Water Supply Operations
+164418|CABALLERO, FERNANDO S.|Business Area Operations
+164500|SANTOS, MA. LOUDITH C.|Business Area Operations
+165878|CABARIOS JR., CESARIO M.|Business Area Operations
+169757|CABRERA, JOCELYN V.|Program Management
+170408|INFANTE, ALDRIN G.|Finance
+170708|SUBA, JAHNET R.|Logistics
+170845|CACHERO, DIVINA Y.|Business Area Operations
+171007|DEL MUNDO, HECTOR F.|Business Area Operations
+172002|TIGLAO, APOLLO C.|Subsidaries Assignment
+172004|MANALANG, JEROWEL A.|Business Area Operations
+172006|SUAREZ, JANITA H.|Program Management
+173070|CADORNA, CORAZON G.|Business Area Operations
+174326|CAJUCOM, JOSE S.|Central NRW Management
+174367|CAJUSTIN, SERGIO A.|Business Area Operations
+175208|CALAMIONG, JESUS N.|Business Area Operations
+175653|CALAYAN, EMILY M.|Human Resources
+176230|CALDERON, RIZALINO L.|Business Area Operations
+177800|CALISON, RAYMOND P.|Corporate Quality, Envt, Health & Safety
+179697|CALURA, GLORIA EXCELCY A.|Business Area Operations
+179754|CALURA, ROMEO T.|Business Area Operations
+180018|CALUYA, RENESON S.|Central NRW Management
+180408|NADADO, FERDINAND A.|Central NRW Management
+180708|VERANO, ANDREW R.|Business Area Operations
+180808|MACAPAGAL, RAFAEL P.|Logistics
+181007|DELA ROSA JR, LEANDRO D.|Business Area Operations
+182004|SALDANA, GLENN C.|Business Area Operations
+182006|PRESA, LEO JERIEL C.|Central NRW Management
+182162|CAMUA, GRACE M.|Business Area Operations
+182188|CAMUA, ERIC C.|Water Supply Operations
+183228|CANAS, EDGARDO P.|Water Supply Operations
+183475|CANCINO, ARTURO P.|Central NRW Management
+183798|CANETE, JOEL SR. S.|Central NRW Management
+185330|CANO, JAIME I.|Wastewater Management
+185400|CANONIZADO, BERNARD MAYO V.|Business Area Operations
+185686|CANTADA, VIRGILIO A.|Business Area Operations
+187526|CAPIT, JUDITH M.|Business Area Operations
+187658|CAPITULO JR., FELIX G.|Business Area Operations
+187716|CAPUA, ROBERTO F.|Wastewater Management
+187836|CAPUNDAN, CARLITO E.|Wastewater Management
+188359|APOSTOL, MADA C.|Business Area Operations
+188606|CAPUYON, GERRY A.|Business Area Operations
+188710|CAPULE, JESUS FELIX C.|Wastewater Management
+189217|TESALONA, DIGNA C.|Water Supply Operations
+189431|CARBUNGCO, ROMMEL B.|Water Supply Operations
+190408|OMNES, REYNALDO R.|Legal and Regulatory Affairs
+190507|QUINIO, MICHELLE L.|Central NRW Management
+190608|NATIVIDAD, CRISTINA M.|Business Area Operations
+190808|JUGUAN, JOSE RICO L.|Logistics
+191007|GENERALAO, CHERRY LYNN B.|Business Area Operations
+191247|CARIAGA, MARIA LUISA D.|Business Area Operations
+192004|MANLAPAZ, RAYMOND D.|Business Area Operations
+192187|CARITATIVO, MA ROWENA T.|Corporate Quality, Envt, Health & Safety
+194720|CARREOS, RUEL P.|Water Supply Operations
+198457|CASILE JR., JOSE V.|Business Area Operations
+198514|CASIMSIMAN, RANEL M.|Business Area Operations
+200105|CASTILLEJOS, NATY T.|Program Management
+200708|ALVAREZ, MICHAEL R.|Business Area Operations
+200808|MAULLON, REYNALDO D.|Logistics
+201007|LEANDADO, JOBET A.|Business Area Operations
+202006|CULAWAY, ELENA B.|Program Management
+202804|CASTILLO, PERCIVAL A.|Business Area Operations
+203238|MONTANO, TERESITA C.|Human Resources
+203323|CASTINO, ROGELIO V.|Central NRW Management
+205773|CASUBUAN, ZALDY M.|Business Area Operations
+207159|CATAMIO, BRILLY V.|Central NRW Management
+207167|CATAMIO, JIMMY I.|Business Area Operations
+208462|CATIBAYAN, PAULO M.|Commercial and Marketing
+209221|CATU, ANGELITO B.|Business Area Operations
+210308|AQUINO, MARK JOHN L.|Central NRW Management
+210708|CASTRO, RENATO I.|Business Area Operations
+210808|CERVANTES JR, ROMEO C.|Logistics
+211007|MANZANA, ROMANUS R.|Business Area Operations
+212004|SILVESTRE, ROMMEL B.|Business Area Operations
+212006|BELLEZA, KATHRYN GRACE O.|Business Area Operations
+214288|CENTENO, BENNET M.|Business Area Operations
+214536|LUCAS, YOLANDA C.|Program Management
+214965|CERRO, TITO M.|Business Area Operations
+215590|CERVANTES JR., GREGORIO C.|Program Management
+215800|CESTONA, ARNEL B.|Water Supply Operations
+216366|CHAVEZ, MARIO G.|Business Area Operations
+218347|CHUA, RITA B.|Program Management
+218521|CINCO, RANDIE L.|Business Area Operations
+220507|ESCALONA, ABIGAIL S.|Water Supply Operations
+220607|MATIC, ROSS RYAN P.|Technical Services
+220708|DE GUZMAN, JEFFREY S.|Business Area Operations
+220808|CAGANDAHAN, BENE P.|Logistics
+221800|CLEMENTE, NOLAN C.|Business Area Operations
+222004|TUBALLAS, RICKY L.|Business Area Operations
+223032|COLOMA, CARLITO L.|Logistics
+224790|COMIA, ENRIQUE C.|Business Area Operations
+224944|DE BELEN, GAUDENCIO P.|Water Supply Operations
+227900|COMSTI, EMIL CARLO F.|Commercial and Marketing
+230243|CASTANEDA, GLORIA C.|Business Area Operations
+230308|DIZON, YOHANN NICHOLAI L.|Central NRW Management
+230708|DELA CRUZ, ELDIE D.|Business Area Operations
+230808|IGLESIA, SHERWIN P.|Logistics
+231007|PAGIBIGAN, MICHAEL F.|Business Area Operations
+232002|BAYLAS JR, RODOLFO O.|Business Area Operations
+232004|URBANO, HASSAN C.|Business Area Operations
+232652|CORONADO, ROLANDO A.|Wastewater Management
+233122|CORPUZ, ARMANDO M.|Business Area Operations
+233130|CORPUZ, BERNARDO S.|Water Supply Operations
+233981|CORTEZ, BOBBY A.|Business Area Operations
+234393|COSICO, BEATRIZ E.|Business Area Operations
+240308|CAPATI, MARK PAUL S.|Corporate Quality, Envt, Health & Safety
+240708|ALMOETE, EDUARDO A.|Business Area Operations
+240808|RUFON, MICHAEL M.|Logistics
+241007|QUINTOS, JANE M.|Business Area Operations
+242004|MIRANDA, RICARDO JOSE G.|Human Resources
+242107|CRUZ, ANTONIO C.|Central NRW Management
+250607|NICODEMUS, LALYN P.|Business Area Operations
+251007|RECOTER, ALVIN C.|Business Area Operations
+251835|CRUZ, RUSTICO D.|Business Area Operations
+251876|CRUZ, VIRGILIO C.|Business Area Operations
+251892|CRUZAT, RAMILO S.|Business Area Operations
+251934|CRUZ, RANILO N.|Business Area Operations
+254938|CRUZ, REYNALDO R.|Water Supply Operations
+256370|CRUZ, SERVANDO C.|Water Supply Operations
+259411|BUENAVENTE, EUGENIA C.|Business Area Operations
+259497|ESPINOSA, JOSEPHINE C.|Finance
+260141|CUBILLAN JR., MARGARITO V.|Central NRW Management
+260308|ILAGAN, JAY MICHAEL S.|Water Supply Operations
+260708|GAMIL, LIMUEL M.|Business Area Operations
+260808|CASINAS, FRANCIS B.|Corporate Quality, Envt, Health & Safety
+261007|SERRANO, RODELIO C.|Water Supply Operations
+263079|CULLADO, ALFREDO V.|Business Area Operations
+266515|CABRAL, AILYN C.|Technical Services
+266965|DABOC JR., ALFREDO B.|Water Supply Operations
+267333|PIEDAD, ROSITA D.|Business Area Operations
+268532|DALIT, LORENZO F.|Business Area Operations
+270308|LIM, RYAN SANTIAGO S.|Central NRW Management
+270708|GUADAYO, APRIL ANTONETTE R.|Business Area Operations
+271007|SILANG JR, MARCIANO L.|Business Area Operations
+271320|DANILA, SANDRO L.|Water Supply Operations
+272002|CONCEPCION, MARICON LOURDES G.|Business Area Operations
+272004|LUNGAY, JOHNAS J.|Corporate Quality, Envt, Health & Safety
+272187|DATU, JOSEPHINE G.|Human Resources
+272583|DAVANTES, NIMFA S.|Business Area Operations
+273102|QUILO, YOLANDA D.|Business Area Operations
+273128|DAWIS, CANDIDO A.|Business Area Operations
+273136|DAWAL, ROSINI C.|Central NRW Management
+273169|DAYALDAS, WILLIAM D.|Business Area Operations
+274621|DAZ JR., JULIANITO I.|Business Area Operations
+274894|DE AUSEN, ROLANDO A.|Business Area Operations
+275018|DAYRIT, RENATO D.|Water Supply Operations
+276204|CUSTODIO, ROWENA D.|Business Area Operations
+276287|DE CLARO, YOLANDA A.|Water Supply Operations
+277600|DE GUZMAN, ENRIQUE G.|Corporate Quality, Envt, Health & Safety
+278002|DE GUZMAN, GILBERTO B.|Central NRW Management
+278374|DE GUZMAN, JOSELITO C.|Program Management
+278937|DE GUZMAN, REYNALDO M.|Business Area Operations
+279299|DE GUZMAN, ROLANDO S.|Logistics
+280308|LUMAWAG, MARK JASON D.|Business Area Operations
+280446|DE GUZMAN, TERESITA G.|Business Area Operations
+281007|ALON-ALON, ZHERILYN R.|Water Supply Operations
+281279|DE JESUS, ELVIRA E.|Wastewater Management
+282002|GRABILLO, ZMEL D.|Business Area Operations
+282004|CINCO, EMMANUEL D.|Corporate Quality, Envt, Health & Safety
+283991|DE LEON, JEFFERSON A.|Business Area Operations
+284719|DE LEON, IVAN C.|Business Area Operations
+284893|DE LEON, JESSE M.|Business Area Operations
+284984|DE LEON, JOHNNY M.|Wastewater Management
+288373|DE RAMOS, ARMIN E.|Logistics
+288795|DE TORRES, NESTOR C.|Water Supply Operations
+289454|DE VERA JR., AMADO L.|Water Supply Operations
+289579|DE VERA, ARNEL C.|Business Area Operations
+289876|DE VERA JR., JOSE E.|Water Supply Operations
+290308|MANLANGIT, MARK JAYSON U.|Central NRW Management
+290708|LAGAMSON, RONALDO A.|Business Area Operations
+290808|BAYANI, MARK ANTHONY R.|Central NRW Management
+291007|FORONDA, AGNES D.|Business Area Operations
+291210|OJEDA, MA CHRISTINA D.|Legal and Regulatory Affairs
+291300|DECHAVEZ, EDISON H.|Technical Services
+291351|DEE, MARY ANN V.|Finance
+292002|GREGORIO, GLENALD J.|Program Management
+292004|GOLOCINDA, CRISANTO P.|Wastewater Management
+292060|DEL MUNDO, EDUARDO P.|Business Area Operations
+293084|DEL ROSARIO, ARTURO G.|Business Area Operations
+293548|DEL ROSARIO, CESAR V.|Water Supply Operations
+295071|DEL ROSARIO, JOSELITO H.|Business Area Operations
+295535|INONG, MA. CECILIA D.|Logistics
+295626|VICENTE, RESSIE D.|Water Supply Operations
+295766|DEL ROSARIO, RODOLFO S.|Central NRW Management
+296806|DEL ROSARIO, VALENTINO S.|Business Area Operations
+300244|DELA CRUZ, DENY C.|Business Area Operations
+300708|LIPIO, MARK C.|Business Area Operations
+300808|FONTEJON, CHRISTOPHER A.|Central NRW Management
+300897|DELA CRUZ, GERALDINE P.|Business Area Operations
+300913|DELA CRUZ, GLEEN C.|Business Area Operations
+301408|DELA CRUZ, JOEL C.|Program Management
+301432|DELA CRUZ, JOEL N.|Business Area Operations
+302000|DELA CRUZ, LEONIDA R.|Business Area Operations
+302265|DELA CRUZ JR., MANUEL L.|Business Area Operations
+302380|DELA CRUZ, MANUEL V.|Business Area Operations
+302976|DELA CRUZ, NENIDA B.|Business Area Operations
+303065|DELA CRUZ, PACIFICO D.|Business Area Operations
+303834|DELA CRUZ, ROBERT C.|Business Area Operations
+304998|DELA CRUZ, TINALOR I.|Business Area Operations
+305623|DELA CRUZ, WILFREDO J.|Business Area Operations
+306321|DELA PENA, HIPOLITO P.|Business Area Operations
+309047|DELA PENA, PIETRO J.|Technical Services
+309138|DELA ROSA, ARNOLD O.|Business Area Operations
+309237|DELA ROSA, ANTHONY M.|Business Area Operations
+309666|DELA ROSA, RAMIL I.|Water Supply Operations
+309989|DELOS REYES JR., RODRIGO D.|Wastewater Management
+310308|QUINES, ZER DANIEL P.|Central NRW Management
+310708|LLANERA, DENNIS G.|Business Area Operations
+312002|JAMORA, RYAN B.|Central NRW Management
+316729|DIMAPILIS, ROMULO D.|Wastewater Management
+319749|DILOY, FERDINAND C.|Water Supply Operations
+320308|SARMIENTO, LECH JOHN C.|Central NRW Management
+320325|DIMAANO, IRINEO L.|Central NRW Management
+320708|ALFUENTE, APRIL F.|Business Area Operations
+320808|LOPEZ, ERICO ROY A.|Human Resources
+321158|DIMAPILIS, EDGARDO S.|Business Area Operations
+322164|DIOKNO, JAIME R.|Water Supply Operations
+323000|DIONISIO, ERANO A.|Business Area Operations
+323543|DICHOSO, ANTONIO B.|Wastewater Management
+324665|DIVINAGRACIA, NESTOR E.|Business Area Operations
+326074|DOMINGO JR., RUFINO T.|Business Area Operations
+329086|DONOR, JOWELITO D.|Wastewater Management
+330708|POLINTAN, KRISTINE C.|Business Area Operations
+330808|ARCAINA, MITCHIE M.|Human Resources
+332002|MENDOZA, SHERWIN D.|Central NRW Management
+333963|DUMLAO, LAURO D.|Business Area Operations
+333971|DUMO, ANDRES T.|Central NRW Management
+334003|DUMO, OFELIA C.|Finance
+334151|DUMPIT, FREDDIE A.|Business Area Operations
+334482|DUNGO, RODOLFO B.|Business Area Operations
+337584|EBARITA, REYNALDO U.|Finance
+339606|EGUIA, ENRIQUE M.|Water Supply Operations
+339946|AJON, LOURDES E.|Finance
+340075|EISMA, SAMUEL T.|Water Supply Operations
+340808|NERO, MICHEL ANGEL B.|Finance
+341677|ELIZON, RANIER O.|Logistics
+341990|ELPEDES JR., EXEQUIEL T.|Wastewater Management
+342162|ENAJE, VIRGILIO F.|Business Area Operations
+342535|ENCINARES, RONALD E.|Business Area Operations
+343400|ENGAY, EDUARDO C.|Water Supply Operations
+343699|ENRIQUEZ, ENRIQUE D.|Business Area Operations
+343954|ENRIQUEZ, MARILOU J.|Business Area Operations
+345405|ALBOR, GERLIE E.|Logistics
+346627|ESCANO, EUSEBIO M.|Business Area Operations
+346700|ESCOBER, ARMANDO A.|Business Area Operations
+349282|ESMENOS, MARIO P.|Logistics
+350561|ESPIDILLON, HENRY Z.|Logistics
+350607|POSADAS, RAFAELLE Q.|Central NRW Management
+350708|SALOMON, EFREN A.|Business Area Operations
+350801|ESPINEDA, FERNANDO A.|Corporate Quality, Envt, Health & Safety
+350926|ESPINO, JAIME T.|Business Area Operations
+351155|ESPINOSA, HERMOGENES T.|Business Area Operations
+351965|DE JESUS, EVALYN E.|Business Area Operations
+352559|ESPORLAS, DOMINGO G.|Water Supply Operations
+352740|ESQUINO, DELFREDO C.|Business Area Operations
+358911|EUGENIO, RENATO L.|Business Area Operations
+360308|DOLOT, ANTHONY R.|Water Supply Operations
+360708|TANCAAG, JUNWIL A.|Business Area Operations
+360808|CABUANG, WILSON M.|Finance
+361105|EVANGELISTA, MICHAEL H.|Central NRW Management
+362002|MARILLA, MA CHERRY S.|Central NRW Management
+362830|FABELLA JR., LADISLAO T.|Business Area Operations
+363176|FABIAN, JOSELITO M.|Business Area Operations
+363234|FABILA, CAROLINA P.|Finance
+365130|GALA, DOLORES F.|Water Supply Operations
+369983|CANTADA, DEMETRILITA F.|Business Area Operations
+370155|FERMANTEZ, ELIZERT I.|Business Area Operations
+370708|TANDOC, MARIA CRISTINA P.|Business Area Operations
+370808|PEREZ II, EDMUNDO M.|Human Resources
+374306|FERNANDEZ, ROBERTO T.|Water Supply Operations
+378174|FIGUEROA, ALLAN S.|Logistics
+380121|FLORES, JULIEFEL A.|Business Area Operations
+380808|EDOSIL, ENRILE T.|Business Area Operations
+381910|FLORES, RAYMOND D.|Logistics
+382002|TANAG, MARIBETH D.|Central NRW Management
+382004|RUFO, JENNIFER C.|Commercial and Marketing
+382006|DE GUZMAN, EMERSON D.|Technical Services
+389296|MALABANAN, GLORIA F.|Business Area Operations
+390808|PICAR, MARLON D.|Business Area Operations
+390987|FRANCISCO, ROBERTO J.|Business Area Operations
+391575|FRIANEZA, ABRAHAM V.|Business Area Operations
+393266|FUMAR, REYNALDO P.|Legal and Regulatory Affairs
+393440|MORTOS, ARJUNA F.|Finance
+393470|FUENTES, TOMASITO M.|Water Supply Operations
+399132|GADIA, HIPOLITO I.|Business Area Operations
+399196|GACUSAN, TEDDY G.|Water Supply Operations
+399535|GADIANO, RAQUEL C.|Business Area Operations
+400408|GAGARIN, DIVINA D.|Business Area Operations
+400708|MALAVEGA, HERBERTH A.|Business Area Operations
+400808|REYES, VAL F.|Business Area Operations
+401836|GALA, FELIPE B.|Program Management
+402966|GALANG, NORMA G.|Business Area Operations
+403679|SOMOVA, MARIVIC G.|Business Area Operations
+404012|GALLARDO, ARMI B.|Business Area Operations
+405647|GAMALINDA, RAINIER A.|Business Area Operations
+407296|GANIBO, NELLY F.|Technical Services
+407528|GANOYO JR., RUFINO M.|Water Supply Operations
+407882|GAPUZ, BRENDA B.|Business Area Operations
+407908|GARACHICO JR., NESTOR P.|Business Area Operations
+408302|GARCIA, ANTONIO F.|Wastewater Management
+408377|GARCIA, ARCELI M.|Business Area Operations
+408815|GARCIA, CARMELO M.|Business Area Operations
+410159|GARCIA, MARNEL LEONARDO Q.|Logistics
+410708|AM-IS JR, WILLIAM B.|Business Area Operations
+410808|REYES, GILDA KLIENE C.|Technical Services
+410993|GARCIA, ORLANDO V.|Business Area Operations
+411167|BAMBAO, TERESITA G.|Finance
+411777|GARCIA, RONALD A.|Water Supply Operations
+415286|CANAPE, AURORA G.|Finance
+416453|GAZMIN, ALEX R.|Central NRW Management
+416560|GELOGO, NELSON G.|Water Supply Operations
+417691|GENERAL, ALLYSON M.|Business Area Operations
+417963|BATILANTE, MILAGROS G.|Finance
+418095|GENOVIZ, RICKY A.|Business Area Operations
+420708|CABALLES, KEVIN L.|Business Area Operations
+420808|DE GUZMAN, RAYMUNDO S.|Business Area Operations
+422303|GIRON, MELCHOR O.|Water Supply Operations
+423061|GLORIA, PERFECTO S.|Business Area Operations
+425538|GOLINO, EULYSIS R.|Technical Services
+425664|GOMEZ, CLARISSE JOY S.|Logistics
+430708|CALDONA, BRIAN B.|Business Area Operations
+430808|GAYAPA, JEROME C.|Business Area Operations
+434340|GRANADO, REYNALDO E.|Business Area Operations
+434441|GRANIL, ROGER A.|Business Area Operations
+435016|GRAYDA, CHEVYL J.|Business Area Operations
+435100|GRAVIDEZ, ESTRELLITA Y.|Logistics
+435750|GREGORIO, REYNALDO M.|Logistics
+436592|GUARIN JR., ARTURO I.|Business Area Operations
+437221|GUEMO, EUFROCINO R.|Water Supply Operations
+440981|GUEVARRA, RIZALITO H.|Business Area Operations
+441337|GUIAO, ROBERTO C.|Business Area Operations
+441774|GUIEB, MELQUIADES B.|Business Area Operations
+442006|MORADA, DAISY G.|Program Management
+442145|GUIANG, ELEAZAR F.|Business Area Operations
+442954|GUINTO, JOSEPH B.|Business Area Operations
+442988|GUINTO, MADELANE O.|Business Area Operations
+443010|GUINTO, ROMEO A.|Business Area Operations
+443283|GULINAO, ROMEO J.|Business Area Operations
+446039|BULAONG, HELEN G.|Business Area Operations
+447094|GUDA, ARACELI N.|Legal and Regulatory Affairs
+447719|SANTOS, MARITA G.|Business Area Operations
+450708|CELON, ROLDAN L.|Business Area Operations
+450965|HALILI, RODANTE B.|Business Area Operations
+451731|HERMAN, EDWIN R.|Business Area Operations
+452243|HERNANDEZ, MARIVIC M.|Finance
+452250|HERNANDEZ, ROGELIO C.|Business Area Operations
+453381|ICAMINA, IMELDA H.|Business Area Operations
+457416|HERRERA, VINANCIO M.|Business Area Operations
+459000|HILARIO JR., ROBERTO R.|Business Area Operations
+460063|HONRADE, GOMER O.|Business Area Operations
+460329|HOSMILLO, RONILO P.|Water Supply Operations
+460708|DANIEL, WILMER P.|Business Area Operations
+460775|IBARRA, IAN A.|Business Area Operations
+460956|IBARRETA, ROMEO B.|Business Area Operations
+464741|IGNACIO, GEORGE R.|Wastewater Management
+466771|ILDEFONSO, ROMEO E.|Water Supply Operations
+466979|INES, FLORANTE S.|Business Area Operations
+468350|INONG, WILSON I.|Program Management
+470708|DARNAYLA, RODERICK C.|Business Area Operations
+471292|ISIP, ROBERTO F.|Business Area Operations
+476500|JAVIER, LEONARDO C.|Business Area Operations
+478521|JOAQUINO, SAMSON S.|Business Area Operations
+478537|JIMENEZ, NELSON V.|Logistics
+479477|JOCSON, RICARDO B.|Central NRW Management
+479972|JORGE, JORGE JOSE V.|Central NRW Management
+480152|JOSE JR., FELICIANO C.|Business Area Operations
+480708|DAVID, MARK WALDEN Q.|Business Area Operations
+481801|GATCHALIAN, MARIA CECILIA J.|Business Area Operations
+483156|JUBIAR, LOU R.|Wastewater Management
+484022|JUGUILON, JOVIE M.|Business Area Operations
+486365|KAHULUGAN, NORMEN P.|Business Area Operations
+488372|LABARO, HELEN B.|Corporate Quality, Envt, Health & Safety
+488700|KHO, ROMEO M.|Business Area Operations
+490708|FERNANDEZ, JOSE HAMSHIRE V.|Business Area Operations
+490854|LACAP, KENNETH B.|Business Area Operations
+494906|LAGAO, RAMONCITO T.|Business Area Operations
+495796|LAGO, EMILIANO D.|Central NRW Management
+496935|LAGUARDIA, GRACE A.|Logistics
+496968|LAGUNDIMAO, ROGELIO N.|Business Area Operations
+497703|LANON, ROCELLER C.|Wastewater Management
+497891|LAMAYO, LUTHER V.|Water Supply Operations
+500408|ESPIRITU, ROEL S.|Business Area Operations
+500808|BATAC, STEPHEN C.|Central NRW Management
+502006|MUTYA JR, BERNARDINO M.|Business Area Operations
+502153|LARRACAS, ELIAS R.|Program Management
+502179|LARRACAS, RONALDO G.|Business Area Operations
+503250|LORIA, RENATO P.|Water Supply Operations
+505719|LAUZON JR., LIBERATO V.|Wastewater Management
+505958|LAVARES, JEREMIAS JOB G.|Business Area Operations
+506345|LAXA, NELSON C.|Wastewater Management
+506410|LAYOG, DAVID C.|Program Management
+510708|MANRIQUE, ISBERN S.|Business Area Operations
+510808|ULILI, FREDDIE P.|Central NRW Management
+511956|LEIS, ROLANDO J.|Wastewater Management
+512145|LEONOR JR, OSCAR M.|Program Management
+512350|LEYBLE, SALVADOR S.|Water Supply Operations
+512442|LEYNO, EDNA A.|Business Area Operations
+512541|HAPAL, TERESITA L.|Business Area Operations
+515151|LICHAUCO, CHRISTOPHER J.|Business Area Operations
+520708|SANTIAGO, VON ELBERT C.|Business Area Operations
+520808|YUHENGCO, JEFFERSON JOHN C.|Central NRW Management
+522006|NOOL, RHEA A.|Program Management
+522797|LLANETA, DANTE R.|Technical Services
+524009|LOMBOS, ANTHONY B.|Business Area Operations
+525219|LOPEZ, ANGEL DANTES L.|Business Area Operations
+525246|LOPEZ, ARNOLFO J.|Business Area Operations
+525352|DELA CRUZ, ZAIDA L.|Business Area Operations
+527921|LOPEZ, NILDA A.|Logistics
+530708|TAPIZ JR, CEFERINO M.|Business Area Operations
+530782|LOTA, LOLITA M.|Finance
+530808|DOROMAL, RUFINO EDGARDO M.|Wastewater Management
+532006|ROY, RONALDO T.|Program Management
+534776|LUBIGAN, ARTURO C.|Business Area Operations
+536433|LUCIDO, EDGARDO M.|Business Area Operations
+536700|LUMAWAG, JOSE GILBERT S.|Business Area Operations
+537985|LUNA, FERDINAND B.|Finance
+539015|LUYAN, FERNANDO C.|Business Area Operations
+539064|LUYAN, RICARDO C.|Business Area Operations
+540808|MARTINEZ, BERNARD MEL C.|Program Management
+541151|MABUNGA, MERITO B.|Central NRW Management
+541169|MACABALI, EDUARDO G.|Business Area Operations
+541961|MACALINDONG, REYNALDO B.|Business Area Operations
+542006|SANGA, CATHERINE F.|Program Management
+542589|MACAPAGAL SR., VIRGILIO L.|Central NRW Management
+543989|TUBIANOSA, LESLIE M.|Finance
+544569|MACAYAN, ROMEO V.|Water Supply Operations
+545251|MADERAZO, SYLVIA R.|Finance
+547000|MAGAOAY, ELMER E.|Business Area Operations
+548000|CRUZ, MONA LIZA M.|Business Area Operations
+548693|MAGCANAN, FEDERICO B.|Business Area Operations
+549493|SERAFICA, JOCELYN M.|Business Area Operations
+549857|MAGNO, EMILY P.|Business Area Operations
+550221|DE PAZ, GRACE M.|Business Area Operations
+550808|SORIANO, RAMONCITO N.|Water Supply Operations
+552711|MAGTAGNOB, SARAH P.|Finance
+552800|MAGTALAS, GLENNETH S.|Logistics
+554188|MALABANAN, REYNALDO A.|Business Area Operations
+554436|MALALUAN, FLORANTE A.|Logistics
+555326|MALDO, WILFREDO I.|Wastewater Management
+555458|MALINIS, GENIDO A.|Business Area Operations
+556282|MALLARI, ALFREDO P.|Business Area Operations
+559559|MALUBAY, EMMANUEL E.|Wastewater Management
+560100|DE LEON, MARITES M.|Business Area Operations
+560847|MANALANG, EVA CORAZON L.|Business Area Operations
+560862|MANALANG JR., JESUS M.|Business Area Operations
+562006|TABERNA JR, WILFREDO I.|Program Management
+562280|MANDAP JR., PEDRO P.|Business Area Operations
+563820|SAPOPO, MA VICTORIA M.|Human Resources
+564880|MANLANGIT, ARTURO S.|Business Area Operations
+567900|MANUEL, GILBERT G.|Water Supply Operations
+567974|MANUEL, JESUS M.|Business Area Operations
+568428|MANUEL JR., ROGELIO D.|Business Area Operations
+568774|MANZANO, MANUEL B.|Business Area Operations
+570408|ORILLO, RYAN S.|Wastewater Management
+570570|MARAVILLA, MARIELIZ C.|Finance
+571253|GUERRA, GLORIA M.|Finance
+572003|DEL ROSARIO, MARY-ANNALIE M.|Technical Services
+573154|ARTIAGA, MARIA TERESA M.|Logistics
+575472|JULIAN, MARISSA M.|Business Area Operations
+576026|MARCELO, NELO S.|Business Area Operations
+578686|MARIANO, MELANIO G.|Technical Services
+578849|MARINAS JR., FORTUNATO F.|Business Area Operations
+578856|MARQUEZ, ARCHIMEDES SR. D.|Water Supply Operations
+578880|MARQUEZ, ARLYSS M.|Business Area Operations
+579110|MARQUEZ, GREGORIO L.|Business Area Operations
+579813|MARQUEZ JR., MANSUETO M.|Business Area Operations
+580808|PUNZALAN, MARC CANDID P.|Business Area Operations
+582338|MARTINEZ, ANDRES C.|Business Area Operations
+585500|MONOSO, KORINA M.|Information Technology Services
+585596|MASAOAY, WARLITO C.|Water Supply Operations
+587154|MATEO, VICTORIANO J.|Business Area Operations
+588681|MATI, EDGAR P.|Water Supply Operations
+588715|MATIAS, VICTOR F.|Business Area Operations
+588905|MATINING, DOMINADOR D.|Water Supply Operations
+590808|MAGSINO, MARK WILSON A.|Central NRW Management
+591658|DELGADO JR., RICARDO D.|Central NRW Management
+591768|MAURICIO, RICARDO F.|Business Area Operations
+591784|MAURICIO, ROMEO F.|Water Supply Operations
+592279|MAYUGA SR., MANOLITO T.|Business Area Operations
+592824|MAZO, ELDE M.|Central NRW Management
+594420|ROSALES, LAILA M.|Logistics
+594952|MEDINA, MARLON M.|Business Area Operations
+594960|MEDINA, NARCISO D.|Logistics
+594994|MEDINA JR., JOSE M.|Wastewater Management
+595264|MEDINA, ROMEO M.|Central NRW Management
+596502|MELENDEZ, HERMINIGILDO O.|Business Area Operations
+605147|MENDOZA, RICHARD R.|Business Area Operations
+606588|MENOR, ROBERTO C.|Wastewater Management
+606954|MENESES, MARIA VICTORIA C.|Business Area Operations
+607002|MENESES, ROMEO A.|Business Area Operations
+607523|MENOR, GRACIELA V.|Business Area Operations
+610708|TION JR, EDILBERTO C.|Business Area Operations
+610808|DE VILLA, EMMANUEL A.|Program Management
+612929|MESINA, JAIME O.|Business Area Operations
+615088|MILLARES, LOVELL G.|Business Area Operations
+617316|MINIMO, JOVENCIO M.|Business Area Operations
+618967|MIRANDA, MARIO S.|Water Supply Operations
+619684|MISA, BERNARDINO S.|Business Area Operations
+620104|MOJICA, VALENTINO L.|Central NRW Management
+620435|MOLANO, CARIDAD G.|Wastewater Management
+620708|MOLINA, JOSEFINA D.|Business Area Operations
+620808|MISSION, DJETRO BRIAN S.|Program Management
+621003|MOLINA, ROGELIO G.|Water Supply Operations
+622006|AGUSTIN, JIM G.|Business Area Operations
+626000|MONTALES, ROLLY B.|Business Area Operations
+630708|SUSANO, GERONIMO JUN G.|Business Area Operations
+631630|MONZON, ERNESTO C.|Water Supply Operations
+631655|MONZON JR., FERNANDO B.|Business Area Operations
+631937|MONZON, NOEL S.|Central NRW Management
+632006|ALMAZAN, SILVER JAMES E.|Business Area Operations
+634913|MORALES, NEMESIO J.|Logistics
+635268|MORENO, RICARDO D.|Central NRW Management
+638031|NAVARRO, NORMA M.|Business Area Operations
+638321|MUNEZ, ROBERTO S.|Business Area Operations
+641662|NAPINAS, LEOPOLDO P.|Business Area Operations
+642006|ARON, MELANIO M.|Business Area Operations
+642041|NARCISO, ROSELINO A.|Business Area Operations
+642363|NARIO, ROGER P.|Business Area Operations
+644302|NAVA, REX C.|Business Area Operations
+644484|NAVAL JR., SATURNINO M.|Water Supply Operations
+644559|NAVALAN, EDISON C.|Business Area Operations
+644757|SIMON, LILIA N.|Business Area Operations
+644856|NAVALTA, PRUDENCIO S.|Business Area Operations
+644922|NAVARETTE, EDGARDO R.|Central NRW Management
+648790|NELMIDA, EDUARDO N.|Business Area Operations
+648899|NEPOMUCENO, RENATO BENVENIDO R.|Business Area Operations
+649905|NG, JOSELITO C.|Business Area Operations
+651350|NICASIO, HEREMIAS E.|Business Area Operations
+651621|NICOLAS, JUANITO D.|Wastewater Management
+651653|NICOLAS, ERNESTO S.|Water Supply Operations
+652006|CAPITULO, RYAN A.|Business Area Operations
+656934|MORANO, ARSENIO L.|Business Area Operations
+657528|NUADA, LORENZO D.|Water Supply Operations
+657956|OBANIL, MA ELIZABETH H.|Human Resources
+658000|OBANIL, JOSEPH JIMMY A.|Business Area Operations
+659334|OCAMPO, EDGARDO G.|Business Area Operations
+660708|PINERO, JORDAN A.|Water Supply Operations
+660787|ODERON, ANNA LIZA C.|Legal and Regulatory Affairs
+660808|TISBE, MICHAEL A.|Water Supply Operations
+662098|OLA, MOISES S.|Business Area Operations
+663328|OLERO, LUCILA S.|Water Supply Operations
+665299|OLINARES, EFREN L.|Business Area Operations
+665778|OLMEDO, BERNARDO C.|Business Area Operations
+665800|SAMARRO, MARIBETH O.|Business Area Operations
+665851|OLOROSO, EFREN P.|Water Supply Operations
+667956|ORDONEZ, LYDIA D.|Business Area Operations
+669697|ORTEGA, FELICISIMO A.|Business Area Operations
+670708|PASCUAL, JERSON R.|Water Supply Operations
+670808|DELA ROSA, JOSEPHUS M.|Water Supply Operations
+672378|OZARAGA, ALBERT M.|Wastewater Management
+672634|PABLO, HERMINIGILDO R.|Business Area Operations
+673095|PABLO, ZENAIDA C.|Business Area Operations
+674069|PACELO, HILARION P.|Central NRW Management
+674093|PACELO, MANDING D.|Business Area Operations
+675264|PACLEB JR., HENRY M.|Business Area Operations
+675983|PADILLA, BERNARD M.|Business Area Operations
+678678|PADUA, RONALDO C.|Water Supply Operations
+680808|ESGUERRA, DAN JOEL A.|Business Area Operations
+680819|PATERNO, EDUARDO REY S.|Business Area Operations
+685172|PAMITTAN JR., WILFREDO R.|Business Area Operations
+685700|PALMA, JERRY R.|Wastewater Management
+685800|PANGAN, JOHN ALDRIN G.|Wastewater Management
+685982|PANGAN, NESTOR F.|Business Area Operations
+686030|PANGANIBAN, BRIGIDO G.|Business Area Operations
+686675|PANGILAGAN, MARIA ELENA B.|Program Management
+688053|PANTI, DANTE J.|Wastewater Management
+688223|PANOPIO, JESTONY D.|Water Supply Operations
+689224|PANTIG, MIDEO C.|Wastewater Management
+690808|MONTEMAYOR, JEREMY G.|Business Area Operations
+692006|FORTE, WARREN G.|Central NRW Management
+692673|PARSRAM, FRANCISCO I.|Business Area Operations
+693218|PARTIDO, ORLANDO M.|Business Area Operations
+694052|PARTIDO, SAMUEL M.|Business Area Operations
+694208|PARULAN, JOSELITO G.|Business Area Operations
+696455|YUTUC, FLERIDA P.|Finance
+698787|PASUENGOS, FE V.|Program Management
+699959|SAMORANOS, ELVIRA P.|Business Area Operations
+699967|PATO, GAUDENCIO S.|Business Area Operations
+700021|PATULOT, GREGORIO A.|Central NRW Management
+700062|PORCIUNCULA, ANNA LIZA P.|Corporate Quality, Envt, Health & Safety
+700808|TIGLAO JR, REMIGIO M.|Water Supply Operations
+702597|PEDERNAL, ALBINO M.|Business Area Operations
+703165|PELIGRO, MARIO S.|Business Area Operations
+703751|PENAFIEL, FERMIN T.|Logistics
+706846|PEREZ, CECILIO J.|Business Area Operations
+707195|PEREZ, FLORENCIO M.|Water Supply Operations
+707273|PEREZ JR., GREGORIO A.|Business Area Operations
+708776|PEREZ JR., OLIGARIO H.|Business Area Operations
+710105|PERIDO JR., JOSE S.|Business Area Operations
+712006|HERRERA, ANNA BELEN G.|Water Supply Operations
+712364|PIEDAD, MELCHOR G.|Business Area Operations
+714451|PINACATE, NICOLAS B.|Business Area Operations
+715367|PINEDA, RULEO N.|Program Management
+715649|PINGUL, LYRIA B.|Business Area Operations
+716227|PLASENCIA, EDITO A.|Wastewater Management
+719856|POLIQUIT, FROILAN G.|Central NRW Management
+720708|ELIGIO, RICHARD C.|Business Area Operations
+722006|JODIERES JR, ROLIXTO V.|Business Area Operations
+726323|PURIRAN, OLIVER G.|Water Supply Operations
+726583|BAUTISTA, ADORA Q.|Business Area Operations
+729079|QUIBRANTOS, HENRY C.|Business Area Operations
+729256|QUIJANO, DANILEO V.|Business Area Operations
+729841|QUIMPO, EVELYN R.|Finance
+730100|BLANCO, RHODA R.|Program Management
+730808|REYES, PAOLO B.|Central NRW Management
+730978|QUINTOS, MARI AMYLAINE L.|Business Area Operations
+731414|QUITAIN, NORBERTO A.|Business Area Operations
+731513|QUITORIANO, DANILO P.|Business Area Operations
+732006|MALUNDAS, JANICE A.|Business Area Operations
+733436|RAGUDO, PEDRO R.|Business Area Operations
+734087|RAMILO, ROGELIO R.|Business Area Operations
+734434|RAMIREZ, REYMUNDO D.|Business Area Operations
+735753|RAMIREZ, MARIO P.|Water Supply Operations
+736173|SANTOS, NEOMI R.|Business Area Operations
+736439|RAMIRO, JUSTINO ANTONIO S.|Business Area Operations
+737122|RAMOS, ANTONIO S.|Business Area Operations
+737551|RAMOS, EDDIE S.|Business Area Operations
+740696|REALEZA, LUCILA R.|Water Supply Operations
+740708|CASTULI, HERBERT T.|Business Area Operations
+741306|RAMOS, MA AIMEE FRANCES E.|Business Area Operations
+742006|MASIGLAT, CHRISTOPHER V.|Wastewater Management
+743356|RANCHEZ, BENFLOR B.|Wastewater Management
+743732|RAMOS, SONNY A.|Central NRW Management
+744100|RAPADAS, WENCESLAO C.|Business Area Operations
+744200|RAPI JR., FLORANTE F.|Wastewater Management
+744250|RANOY, MARCELINO P.|Water Supply Operations
+744524|RAPI, FROILAN F.|Wastewater Management
+744763|RASCANO, LUISITO R.|Business Area Operations
+745398|RAYMUNDO, ESPERANZA M.|Program Management
+747683|REAL, MARTIN G.|Business Area Operations
+748020|REALEZA, RAMON R.|Water Supply Operations
+748046|REAS, EMMANUEL G.|Business Area Operations
+748384|REBONG, RODRIGO D.|Business Area Operations
+749705|REGALADO, ARNEL EUGENIO P.|Business Area Operations
+749747|NAVAJA, DALISAY R.|Corporate Quality, Envt, Health & Safety
+750808|MIRANDA, ERWIN S.|Water Supply Operations
+752006|CRUZ, MARITES M.|Program Management
+752690|RELUCIO, AMELITO M.|Business Area Operations
+752758|REGUDO, MA. LINDA L.|Business Area Operations
+752857|RELOX, CERPED R.|Business Area Operations
+755587|RESURRECCION, EDUARDO L.|Central NRW Management
+756346|REYES, ANGEL S.|Business Area Operations
+759233|MENDOZA, MA BRIGITTA R.|Business Area Operations
+760579|REYES JR., DOMINADOR M.|Business Area Operations
+762006|NASAYAO, CHRIST B.|Central NRW Management
+764213|REYES, LIZABEL R.|Business Area Operations
+764605|LANDAYAN, LYDIA R.|Office of the President
+765446|VILLANUEVA, MA. LUZ R.|Business Area Operations
+766642|REYES, RIO E.|Water Supply Operations
+769000|RAGILES, WINDY MAY R.|Business Area Operations
+769489|REYNO JR., LEODEGARIO M.|Water Supply Operations
+771220|RIGOR, NORBERTO G.|Business Area Operations
+771667|RIOLA, VIRGILIO O.|Central NRW Management
+773051|RIVERA, RONNIE R.|Water Supply Operations
+777169|ROCAFOR, GIL R.|Business Area Operations
+777201|ROCAFOR, MARIO R.|Water Supply Operations
+777243|ROCAMORA, LUZ C.|Water Supply Operations
+777300|RODIL, MARK ERWIN H.|Water Supply Operations
+777318|RODRIGO, ANGELINA K.|Business Area Operations
+780163|ROLDAN JR., BIENVENIDO P.|Water Supply Operations
+780403|ROLLOQUE, ROBERTO C.|Business Area Operations
+780708|NACARIO, JAYSON D.|Business Area Operations
+780808|SALAS, JESSIMAY C.|Central NRW Management
+781013|ROMERO, EDILBERTO D.|Central NRW Management
+782006|PATACSIL, PETER NELSON C.|Business Area Operations
+783308|RONDERO, PABLITO C.|Business Area Operations
+784397|ROQUE, BIENVENIDO R.|Logistics
+786665|ROSAL JR., PAULINO G.|Business Area Operations
+787655|ROSARIO, JAIME D.|Business Area Operations
+789461|ROXAS, JOSE S.|Business Area Operations
+789495|ROXAS, MARLYN M.|Business Area Operations
+790708|NACARIO, ROLAND N.|Business Area Operations
+790774|RUBIO, HENRY Y.|Water Supply Operations
+790816|RUBIO, MAURA P.|Business Area Operations
+790865|RUBIO, RAFAEL Y.|Water Supply Operations
+791335|RUIDERA, ENRICO ALFONSO A.|Business Area Operations
+792006|PINEDA, ROLDAN Q.|Business Area Operations
+792802|CIPRIANO, JUDITH S.|Logistics
+795641|SADIWA, JOHN S.|Water Supply Operations
+795930|ATENCIO, ELISEA S.|Business Area Operations
+796029|ALCANTARA, GLORIA S.|Business Area Operations
+797134|SALAZAR, MARISSA D.|Finance
+798614|SALES, DOLORES R.|Corporate Quality, Envt, Health & Safety
+799916|SABADO, SUSANA P.|Business Area Operations
+799999|SACIL, JUDY E.|Logistics
+800011|SACIL, MARIO E.|Business Area Operations
+800318|SALES, FLORANTE V.|Logistics
+800708|TAMUNDONG, ISAGANI S.|Business Area Operations
+800808|DATONG, RICA BLANCA D.|Water Supply Operations
+800946|SALUDES, GARRY C.|Wastewater Management
+802006|POLLOSO, RONALD ALLAN V.|Central NRW Management
+804435|SAMONTE, ANTONIO P.|Business Area Operations
+805200|SAMSON, ARNEL C.|Business Area Operations
+809871|SAN JOSE, JULIAN F.|Business Area Operations
+810321|SAN JOSE, ROMEO S.|Water Supply Operations
+810708|RACAB, RICHARD L.|Business Area Operations
+810808|MARTINEZ, GRETCHEN JOY V.|Business Area Operations
+815920|CEMBRANO, VILMA S.|Corporate Quality, Envt, Health & Safety
+816181|SANGA, FE MYLENE N.|Wastewater Management
+818252|ESPIRITU, CRISTINA S.|Business Area Operations
+819519|SANTIAGO JR, ROMEO H.|Business Area Operations
+820708|PADRIQUE, ANTHONY A.|Central NRW Management
+822536|SANTOS, ABRAHAM ADRAIN B.|Corporate Quality, Envt, Health & Safety
+824151|SANTOS, DANIEL R.|Business Area Operations
+830141|SANTOS, FREDERICK P.|Business Area Operations
+830708|FORTES, RUTH R.|Business Area Operations
+832006|RAMOS, ANGELO C.|Business Area Operations
+832456|SANTOS, JAIME C.|Wastewater Management
+832543|SANTOS, ISAGANI C.|Program Management
+832675|SANTOS, JACINTO V.|Business Area Operations
+834226|SANTOS, JOSEFINO G.|Central NRW Management
+835355|SANTOS, MARISSA M.|Business Area Operations
+835801|SANTOS, PHILIP M.|Water Supply Operations
+836619|SANTOS, RENATO A.|Business Area Operations
+839558|SANTOS, SEVERINO G.|Business Area Operations
+840513|SAPOPO, SYLVAIN S.|Business Area Operations
+840708|AGUSTIN, VALENTIN I.|Business Area Operations
+841840|DAVID, ELIZABETH S.|Corporate Quality, Envt, Health & Safety
+842006|REYES, MARK REYNAN E.|Central NRW Management
+842864|SASON, RAFAEL L.|Water Supply Operations
+843371|SAWAL, ROSALINDA J.|Corporate Quality, Envt, Health & Safety
+846071|SEGUNIAL, HENRY C.|Business Area Operations
+849190|SERMINO, JAIME G.|Business Area Operations
+850708|PEREZ, RICHARD P.|Logistics
+850808|SERRANO, ANNA MELISSA Z.|Central NRW Management
+852006|RONQUILLO, JERMAINE C.|Water Supply Operations
+852350|SEVILLENO, JHONNY BOY P.|Central NRW Management
+854141|SIAPCO, BONIFACIO T.|Corporate Quality, Envt, Health & Safety
+857557|SIMON, DOMINADOR M.|Business Area Operations
+860708|ANOVA, DAVID ISAIAH P.|Logistics
+861492|SISON, FERNANDO M.|Business Area Operations
+868158|SONTILLANO SR., MARIO S.|Central NRW Management
+869917|SORIANO, CONRADO P.|Corporate Quality, Envt, Health & Safety
+872002|ASCAN, JHONEGIL C.|Central NRW Management
+872259|BAYOG, MARIA CORAZON S.|Business Area Operations
+875153|STA MARIA, RODOLFO A.|Water Supply Operations
+880773|SURARA SR, NESTOR V.|Water Supply Operations
+881532|SUSAS, ROMEO L.|Business Area Operations
+881565|SUYAT, WILSON G.|Business Area Operations
+881599|SY, FEDERICO M.|Business Area Operations
+881680|TABAGO, NATHANIEL B.|Water Supply Operations
+886267|TAGUINES, RUBEN M.|Business Area Operations
+886911|TALANAY, MA CRISTINA D.|Corporate Quality, Envt, Health & Safety
+895508|TATEL, ULYSSES R.|Program Management
+895847|TAYAG, ROSEMARIE C.|Business Area Operations
+896514|TAYO, ROMEO T.|Central NRW Management
+899914|TESALONA, WILLIAM G.|Business Area Operations
+900808|DERLA JR, TOMAS M.|Business Area Operations
+901440|TOLENTINO JR., VIRGILIO C.|Business Area Operations
+901818|TEVES, JOSEPH NOLAN M.|Business Area Operations
+902006|YAP, WILFREDO U.|Water Supply Operations
+902684|TINIO, ARTURO C.|Business Area Operations
+904433|TOLENTINO, ARNELITO F.|Business Area Operations
+910808|ESTANISLAO, JEMEL O.|Business Area Operations
+911610|TORRES, GERMAN M.|Water Supply Operations
+912824|TORRES, ROLANDO A.|Business Area Operations
+913533|TRIA, MA ANA E.|Water Supply Operations
+913558|TRINIDAD, ARTURO M.|Water Supply Operations
+913565|TRINIDAD, CORNELIO L.|Business Area Operations
+914747|TULALE, JOSE MARI H.|Central NRW Management
+920058|ULANDAY, RICARDO A.|Central NRW Management
+920736|UMANDAP, IRENEO E.|Water Supply Operations
+920808|SARITA, ALVIN L.|Technical Services
+921831|TARLENGCO, GEMMA U.|Finance
+921924|UNO, RODELIO P.|Business Area Operations
+924720|BAUTISTA, EMELITA V.|Business Area Operations
+925131|VALDEZ, AMANTE C.|Business Area Operations
+925713|HERNAL, HELEN V.|Finance
+925784|FIGUEROA, JOCELYN V.|Logistics
+929646|CATU, ASUNCION V.|Logistics
+930115|VALLE, FRANCISCO R.|Corporate Quality, Envt, Health & Safety
+930808|TAWAY, RONALDO KRISTIAN R.|Business Area Operations
+932006|CATAPANG, ADRIAN Z.|Central NRW Management
+932673|VEGA, MANUEL M.|Central NRW Management
+937128|VENZUELA, MILAGROS A.|Business Area Operations
+937565|PAGULAYAN, BRIGIDA V.|Business Area Operations
+938597|VERINO, PETER MEYNARD G.|Business Area Operations
+940353|VICENTE JR., BERNARDO C.|Program Management
+940808|ANTIPOLO, ENRICK M.|Program Management
+942006|SAMPIANO, ANTHONY S.|Program Management
+942466|VIDAL JR., LOLITO J.|Business Area Operations
+942615|VIDAL, RIC J.|Business Area Operations
+943100|VIDON, FRANCISCO N.|Business Area Operations
+944108|VILLACARILLO, VILMA T.|Business Area Operations
+944306|VILLACORTE, ALEX R.|Water Supply Operations
+945501|VILLAGRACIA, NOLI D.|Central NRW Management
+945907|VILLALBA, ROBERT C.|Business Area Operations
+947697|VILLAMOR, BERNARDO A.|Business Area Operations
+947739|VILLAMOR, CYNTHIA FE C.|Business Area Operations
+949149|VILLANUEVA, ABEL G.|Business Area Operations
+952006|SANTOS, MARIANNE E.|Program Management
+953133|VILLANUEVA, REBECCA B.|Business Area Operations
+954400|VILLARTA, CESAR LITO D.|Wastewater Management
+956110|VILLARICO, JESUS F.|Water Supply Operations
+957761|VILLASE?OR, ALEX G.|Business Area Operations
+958405|VILLAVERT, JERRY J.|Business Area Operations
+960808|DOLAP, LIEZEL G.|Business Area Operations
+960823|VILLONA, JERRY A.|Business Area Operations
+962006|BRAVO, EMMANUEL O.|Program Management
+963603|TRINIDAD, ANICIA V.|Program Management
+964403|VITTO, AGUSTIN M.|Business Area Operations
+966879|XAVIER, RISE ANNE M.|Corporate Quality, Envt, Health & Safety
+967786|YAMSUAN, ANTONIO N.|Business Area Operations
+970808|VILLANUEVA, PAUL DARREL C.|Business Area Operations
+976522|ZARATE, EDGARDO M.|Water Supply Operations
+980808|SOLIMAN, SHEILA MAE B.|Business Area Operations
+990811|REYES, LOLITA D.|Human Resources
+990821|Raquel, Francis Fiel R.|Logistics
+990825|BERIÑA, RYAN CRIS B.|Central NRW Management
+990826|BARDINAS, REYNALDO JR. H.|Central NRW Management
+990827|DIZON, REYNALDO III N.|Central NRW Management
+990828|CALAOAGAN, LEAH N.|Central NRW Management
+990830|GALLANO, MARIO D.|Central NRW Management
+990838|BARCELON, ABRAHAM B.|Central NRW Management
+990842|GALLO, REYNANTE P.|Central NRW Management
+990852|LOPEZ, MARLESTER C.|Business Area Operations
+990861|DIZON, MAKO C.|Program Management
+990862|VILLAGANTE, RODEL B.|Central NRW Management
+990868|RODRIGUEZ, JUNIELYN E.|Central NRW Management
+990874|ESPENILLA, NANCY D.|Human Resources
+990881|CLETO, MARK STANLEY V.|Program Management
+990885|JAMBALOS, JERICO M.|Water Supply Operations
+990893|CARANTO, MERVIN CRIS A.|Water Supply Operations
+990896|GOROM, CHERRY DEL E.|Business Area Operations
+990900|SANTILLAN, MARCELO C.|Water Supply Operations
+990902|VELASQUEZ, MAE LIZA S.|Human Resources
+990903|GOMEZ, ANGELENE T.|Finance
+990904|MANUEL, RIZAL D.|Business Area Operations
+990905|BALAGSO, MARY LOUIE L.|Central NRW Management
+990906|ENICEO, JULIO CESAR M.|Central NRW Management
+990912|ACOSTA, JARICK A.|Water Supply Operations
+990914|AVILA, MARIE JOY B.|Program Management
+990915|BERNARDO, NIKKI J.|Technical Services
+990916|BUNAG, JOMAR D.|Program Management
+990917|CABANATAN, JELLY C.|Program Management
+990918|CALDERON, REX RONDEAU P.|Water Supply Operations
+990919|CAUTON, ELMER BRENT T.|Water Supply Operations
+990920|CHEN, PEARL C.|Water Supply Operations
+990921|CHENG, WILLY T.|Logistics
+990922|CORTEZ, JOSE ANTONIO S.|Central NRW Management
+990925|DELA CRUZ, KINGSTON JAMES S.|Program Management
+990927|DIZON, IAN WILDON A.|Water Supply Operations
+990928|ESCALANTE, JESS S.|Water Supply Operations
+990931|GALLEGO, ALFRED JHON R.|Business Area Operations
+990934|GUTIERREZ, SOPHIA KATHRINA D.|Business Area Operations
+990936|HORMILLOSA, REENA JOY A.|Program Management
+990937|LANDINGIN, GIL III T.|Water Supply Operations
+990940|LLAGAS, EDMUNDO JR. B.|Water Supply Operations
+990942|LUCAS, MARY GRACE L.|Business Area Operations
+990943|LOZANO, CLYDE MONICK G.|Central NRW Management
+990945|MARIGONDON, ANN MARGARETT L.|Wastewater Management
+990946|MARTIN, BENSON JHON A.|Central NRW Management
+990948|MENDOZA, DEOBIE M.|Logistics
+990949|MORLA, FRANCES JOYJL P.|Water Supply Operations
+990953|PALMA, DARWIN G.|Program Management
+990954|PALMA, MICHAEL M.|Central NRW Management
+990955|PAPA, LUDWIG R.|Central NRW Management
+990957|RAMOS, RAFAEL KING U.|Water Supply Operations
+990958|RAVELO, ARCHIE P.|Logistics
+990961|TALOSIG, MARK VINCENT Q.|Water Supply Operations
+990963|TROGO, ART REYNAN T.|Central NRW Management
+990964|TUMANDAO, RODEL RIK N.|Water Supply Operations
+990965|VILLA, BENJAMIN C.|Water Supply Operations
+990967|YOLORES, DAVID ALEXIE Z.|Business Area Operations
+990968|PANAGSAGAN, JASMIN N.|Corporate Quality, Envt, Health & Safety
+990970|MASCARIÑAS, KEVIN P.|Central NRW Management
+990972|PASION, MARK FERDINAND M.|Commercial and Marketing
+990975|DELA CRUZ, LOIJOY V.|Central NRW Management
+990978|RODRIGUEZ, FLORELYN B.|Central NRW Management
+990979|YUMUYA, FERNANDINO D.|Central NRW Management
+990982|GO, NORWIN G.|Central NRW Management
+990984|AURELIO, GINO KING T.|Central NRW Management
+990989|LAQUINDANUM, LEONEL E.|Central NRW Management
+990993|MENDOZA, BRENMME C.|Wastewater Management
+990994|SANTOS, GLENN PAUL T.|Central NRW Management
+990995|SOLIS, RYAN JAY D.|Central NRW Management
+990997|GOJAR, PAOLO R.|Central NRW Management
+990999|ALVAREZ, ERICSON M.|Central NRW Management
+991000|VALERA, RONALD C.|Central NRW Management
+991001|DEL ROSARIO, CHESTER Y.|Corporate Quality, Envt, Health & Safety
+991005|VELCHES, MARK V.|Information Technology Services
+991006|CIERVA, JOMAR P.|Central NRW Management
+991007|ANDRES, MICHAEL D.|Central NRW Management
+991009|SANTOS, JES-LIN D.|Central NRW Management
+991010|VERGARA, DERICK P.|Water Supply Operations
+991011|MACAMBONG, MORSID K.|Water Supply Operations
+991012|TUMBOCON, TED PAUL PERINE S.|Water Supply Operations
+991014|DEL CASTILLO, MARY ELIZABETH G.|Finance
+991015|MARTINEZ, JOHN EMMANUEL B.|Corporate Quality, Envt, Health & Safety
+991016|ALEJANDRO, KARMINA M.|Commercial and Marketing
+991017|ALEJANDRO, RIZAL P.|Central NRW Management
+991018|NARVAEZ, ANGELO S.|Water Supply Operations
+991019|MERIDA, KARMICHAEL D.|Water Supply Operations
+991020|PEREZ, GERARDO P.|Water Supply Operations
+991021|ALIYAS, HOMER L.|Central NRW Management
+991022|CABAL, REY JAHN C.|Water Supply Operations
+991024|MARTIN, ELBERT NOEL B.|Central NRW Management
+991026|BANTAD, JOMER U.|Water Supply Operations
+991027|BRILLANTE, RAYMOND BRYAN B.|Water Supply Operations
+991028|DE JESUS, MARCOS D.|Technical Services
+991032|PIDELO, VIRGILIO J.|Technical Services
+991034|ARNIGO, JANE CHARMAE C.|Central NRW Management
+991037|GERODIAS, JOHN MICHAEL E.|Water Supply Operations
+991038|LICUANAN, EUGENE D.|Water Supply Operations
+991039|ESGUERRA, JERVEN L.|Water Supply Operations
+991040|VALDEZ, JAYSON N.|Central NRW Management
+991041|BUENVENIDA, WARREN B.|Water Supply Operations
+991042|GUSI, ALLAN BENIDICK S.|Central NRW Management
+991043|PACHECO, ROBERTO A.|Central NRW Management
+991044|LOMEDA, ROGER F.|Logistics
+991045|CAONG JR.,, WILFREDO C.|Central NRW Management
+991046|RUFO, KARL JOSEPH L.|Central NRW Management
+991047|ROMULO, RALPH B.|Technical Services
+991048|CABANTOG, ARMAN D.|Logistics
+991049|QUIZA, PABLO F.|Water Supply Operations
+991051|CASUCO, LEIBERT B.|Technical Services
+991052|BENITEZ, JESMER ANGELO D.|Water Supply Operations
+991054|USONA, AUBERDEL BRYAN B.|Corporate Quality, Envt, Health & Safety
+991055|EVERO, CASSANDRA THERESE D.|Central NRW Management
+991058|ISON, JULIAN EMIL B.|Central NRW Management
+991061|OCAMPO, CHRISTINE U.|Program Management
+991066|YSAIS, ARIEL I.|Central NRW Management
+991070|ACEDERA, MAVERICK L.|Water Supply Operations
+991071|AVECILLA, ANDREW C.|Water Supply Operations
+991072|GAZA, JUNAR C.|Water Supply Operations
+991073|PRADANOS, EDWIN JR G.|Water Supply Operations
+991074|TAC-AN, TARCESIO B.|Water Supply Operations
+991075|TRES REYES, JONNEL D.|Water Supply Operations
+991076|LACIDA, ALEX ANDREW D.|Water Supply Operations
+991077|ESTRADA, PATRICK N.|Central NRW Management
+991078|CATABIJAN, SEVERINO D.|Central NRW Management
+991079|BUMANGLAG, ROMMEL D.|Logistics
+991084|MENIA, MA. THERESA S.|Program Management
+991097|ARCE, ACER M.|Technical Services
+991104|MAGTIBAY, JOHN MARK O.|Business Area Operations
+991105|ANDRES, ADRIANNE KING M.|Wastewater Management
+991107|BAMBASE, RANDOLPH A.|Subsidaries Assignment
+991108|CATANGCATANG, KRIS G.|Corporate Quality, Envt, Health & Safety
+991109|CHANG, ELAINE L.|Information Technology Services
+991112|LOPEZ, JEWEL APRIL I.|Business Area Operations
+991114|MARQUEZ, TERRY MIKE R.|Wastewater Management
+991115|MENDOZA, ROGELIO JR V.|Corporate Quality, Envt, Health & Safety
+991117|ONA, NOEL BENJIE JR. V.|Logistics
+991118|ONG, ALVIN RYAN C.|Water Supply Operations
+991119|PASCUA, JONATHAN C.|Program Management
+991120|ILAGAN, VANESSA R.|Technical Services
+991128|PESTAÑO, EDMAR G.|Water Supply Operations
+991129|VARGAS, VICTORICO P.|Office of the President
+991130|DE QUINTOS, KATRINA L.|Office of the President
+991137|DAYAO, SONNY E.|Water Supply Operations
+991138|OBTINARIO, LUISITO II A.|Central NRW Management
+991142|TERRENAL, EDRON BENEDICT S.|Central NRW Management
+991146|BAGUIO, RALPH AIDRIN E.|Corporate Quality, Envt, Health & Safety
+991147|GOLTIANO, ZALDY M.|Water Supply Operations
+991148|GADON, MARK BRODETTE S.|Business Area Operations
+991149|SANTOS, FERNANDO G.|Business Area Operations
+991152|BAUTISTA, GERARDO C.|Water Supply Operations
+991155|TAGLE, ARBONICO T.|Water Supply Operations
+991156|DOMINGO, RANIEL LINWELL R.|Business Area Operations
+991157|TRAPANI, ANDREW N.|Business Area Operations
+991158|BACANI, MELODIE P.|Business Area Operations
+991159|OÑADIA, JOVHERRSIELYN E.|Business Area Operations
+991160|BAYOG, JOAN S.|Business Area Operations
+991161|GARCIA, MARIANE M.|Business Area Operations
+991162|ROCA, PERCIVAL S.|Business Area Operations
+991163|OLDAN, ANDRES P.|Business Area Operations
+991164|CASUBUAN, MARC G.|Business Area Operations
+991165|LAPID, JAMES ALDRIN S.|Business Area Operations
+991166|SUGAPONG, JAY A.|Business Area Operations
+991167|ANICO, NEPHTALI A.|Business Area Operations
+991168|LOGRONIO, ERNST EDWARD L.|Water Supply Operations
+991169|EDERON, JONATHAN C.|Business Area Operations
+991170|BAUTISTA, CARLO NICCOLO L.|Business Area Operations
+991171|POLEROS, LORENA E.|Business Area Operations
+991173|PERADA, HYACINTH C.|Business Area Operations
+991174|ORACA, JOE JAMES G.|Business Area Operations
+991175|CALUAG, EDGAR ELDRICK B.|Business Area Operations
+991177|CARINGAL, ALEXIS B.|Business Area Operations
+991178|TEMPOROSA, RYAN B.|Business Area Operations
+991180|REBARTER, FRANCO NEAL P.|Business Area Operations
+991181|FRANCISCO, KIM CARRNNEL D.|Business Area Operations
+991187|SANTIAGO, ARIES P.|Central NRW Management
+991189|MANLANGIT, CARLOS PHILIP B.|Central NRW Management
+991193|SALUDEZ, SAMUEL GERALD T.|Logistics
+991195|MIRANDA, MARVIE RAY J.|Business Area Operations
+991197|GARCIA, OLIVER N.|Business Area Operations
+991198|GUERRA, ROMIE LORD A.|Business Area Operations
+991200|BARUA, PEEJAY G.|Business Area Operations
+991201|DELA PENA, JOANNA MARIE S.|Business Area Operations
+991202|CHAN, DIANNE THERESE O.|Business Area Operations
+991203|PORTILLO, ANGELICA M.|Business Area Operations
+991204|NONATO, ANTHONY O.|Business Area Operations
+991205|CONTRERAS, BERNIDECK Z.|Wastewater Management
+991207|PAMINTUAN, RONALD B.|Wastewater Management
+991208|LLANITA, MARK ANTHONY T.|Business Area Operations
+991210|GESLANI, JONATHAN D.|Central NRW Management
+991213|PANG, JAMES PATRICK T.|Business Area Operations
+991214|DAVID, ROMEL C.|Water Supply Operations
+991215|BOLOS, KURT WILSON V.|Business Area Operations
+991219|LAJA, ALNASIP A.|Business Area Operations
+991220|ALILAIN, MARK JOSEPH P.|Business Area Operations
+991221|LANETE, VON HARRY A.|Business Area Operations
+991222|FORTUNO, RAY ROBIN D.|Business Area Operations
+991223|LONTAJO, MARY ROSE D.|Business Area Operations
+991225|PAJIJI JR, SALANIE T.|Business Area Operations
+991226|MORENO, RYAN A.|Business Area Operations
+991228|PALOMO, JENNY ROSE C.|Information Technology Services
+991229|MEDINA, MARK ANTHONY D.|Water Supply Operations
+991230|SAMSON, CHRISTZALDY NEIL B.|Business Area Operations
+991233|ABESAMIS, JAYZER B.|Business Area Operations
+991234|EUSEBIO, CHRISTIAN V.|Business Area Operations
+991240|CANLAS, EDEN P.|Business Area Operations
+991243|SATUMBA, BILLY EDZEL Y.|Business Area Operations
+991246|MENDOZA, ALYSSA M.|Business Area Operations
+991247|SACRAMENTO, HENRY JAMES C.|Business Area Operations
+991248|AYSON, PHILIPPE JOANNE A.|Human Resources
+991251|ESMILLE, ERNESTO JR M.|Human Resources
+991252|BOTO, BEVERLY Q.|Business Area Operations
+991254|ANCHETA, CHARISSE VERNON D.|Business Area Operations
+991255|BALO, ROBERTO C.|Water Supply Operations
+991256|BASILIO, AROLD B.|Central NRW Management
+991257|CRUZ, JARRED IAN A.|Business Area Operations
+991258|GIANAN JR, GUARENIO L.|Business Area Operations
+991259|BOLIDO, ARNOLD B.|Water Supply Operations
+991261|DE CASTRO, RUSSEL L.|Water Supply Operations
+991264|SERRANO, SHEILA T.|Central NRW Management
+991265|UY, CARL BENEDICT O.|Program Management
+991266|DELLOSA, JANNEBELLE L.|Program Management
+991267|SELGA, ANGELA MAE A.|Program Management
+991268|DE PERALTA, LINETTE M.|Central NRW Management
+991277|PASANA, CARL PATRICK B.|Technical Services
+991278|DECENA, MARIA SHEILA C.|Central NRW Management
+991280|SERVANEZ, AUBREY M.|Water Supply Operations
+991282|MANALANG, JUDY ANNE S.|Program Management
+991285|PAGUIO, ALEXSON U.|Central NRW Management
+991286|DACAYANAN, JASON B.|Water Supply Operations
+991287|MONTES, RAYMOND G.|Central NRW Management
+991288|VENZUELA, ARVIN B.|Water Supply Operations
+991290|DELA ROSA, MARC ADRIAN N.|Water Supply Operations
+991291|BUENO, MARIA NICOLO M.|Information Technology Services
+991292|BIO, PATRICK A.|Logistics
+991293|LAYCO, JERAHMEEL ANDREW B.|Information Technology Services
+991295|TOLENTINO, CHERYL O.|Business Area Operations
+991296|GONZALES, FLORIDA E.|Business Area Operations
+991297|CAFRANCA, MA. JOSEPHINE B.|Business Area Operations
+991298|MARFIL, JOHN MARI G.|Business Area Operations
+991299|PEPITO, MARGARITA G.|Business Area Operations
+991301|SABELLO, IZZAN B.|Technical Services
+991304|PAGADUAN, DARWIN R.|Water Supply Operations
+991305|GREGORIO, JOHN PATRICK C.|Commercial and Marketing
+991306|RICOHERMOSO, ALBERT P.|Water Supply Operations
+991307|OCO, EDWARD C.|Water Supply Operations
+991308|BALMES, ROSE A.|Business Area Operations
+991309|JUMAQUIO, SHEILA R.|Business Area Operations
+991312|LOPEZ, MA. NINA T.|Water Supply Operations
+991313|DAWAL, PAULO JAY C.|Corporate Quality, Envt, Health & Safety
+991314|HIZON, PATRICIA ANNE B.|Commercial and Marketing
+991315|VIJUAN, MICHAEL B.|Water Supply Operations
+991316|PRUDENCIO, RONALD JOHN S.|Business Area Operations
+991317|JOSE, MARIA KRISTINA G.|Commercial and Marketing
+991318|CASTILLO, FRANCISCO C.|Information Technology Services
+991320|CANLAS, EDUARDO M.|Business Area Operations
+991321|DE OCAMPO, MARIE ANTONETTE H.|Commercial and Marketing
+991323|PATAGUE, RODOLFO P.|Water Supply Operations
+991324|CARREON, ERICO M.|Water Supply Operations
+991325|BATALLA, LORENZO B.|Water Supply Operations
+991326|SATORRE, FELIX B.|Water Supply Operations
+991327|ESGUERRA, MICHAEL V.|Business Area Operations
+991328|MATIAS, RICA GLORIANNE S.|Business Area Operations
+991331|ARARACAP, MARLON A.|Water Supply Operations
+991332|MIRAFLOR, RICHARD L.|Business Area Operations
+991333|GAVILAN, ANDREA ANGELICA A.|Business Area Operations
+991334|INUMERABLE, ERICKSON M.|Business Area Operations
+991336|HUESCA, JUNARD C.|Business Area Operations
+991337|OLAYRES, FERNANDO L.|Business Area Operations
+991338|HADUCA, NOWEL G.|Business Area Operations
+991339|MENDOZA, FRANCIS LORENZO R.|Business Area Operations
+991341|MENESES, JULIO L.|Business Area Operations
+991342|LIM, JONATHAN G.|Business Area Operations
+991343|DE VEYRA, VON TYRONNE N.|Business Area Operations
+991344|PILLAS, BERLEY JOHN A.|Business Area Operations
+991345|GARCIA, JOHN PAUL E.|Business Area Operations
+991348|GARCIA, MARK JOSEPH A.|Business Area Operations
+991349|PETEROS, JHOMADEL M.|Business Area Operations
+991350|POSTRERO, YVES C.|Business Area Operations
+991351|ORTANEZ, JEFFREY V.|Business Area Operations
+991352|SIOSON, ANABELLE P.|Business Area Operations
+991354|PADASAS, ARIAN JOY A.|Business Area Operations
+991355|NARVAEZ, MARK CHRISTIAN B.|Business Area Operations
+991356|PRAGO, FRANCIS BIEN C.|Business Area Operations
+991359|RODRIGUEZ, CHRISTINE RUTH O.|Commercial and Marketing
+991361|SAGUN, ROWELL F.|Business Area Operations
+991362|CUTOR, ROWELITO G.|Business Area Operations
+991363|RIVERA, CARLO EMIL T.|Business Area Operations
+991364|CUDIA, JACKILYN B.|Business Area Operations
+991365|GADDI, JEAN VERA T.|Business Area Operations
+991366|BURDA, STEPHANIE JOYCE M.|Business Area Operations
+991367|FLORES, REY U.|Business Area Operations
+991368|STA. ANA, LOVIESITO D.|Business Area Operations
+991369|COQUILLA, FRANCIS JAY P.|Business Area Operations
+991370|MAGBUO, JESREEL V.|Business Area Operations
+991371|BUNO, JAYPEE D.|Business Area Operations
+991372|MEJARO, ROLANDO M.|Business Area Operations
+991374|NALANGAN, ORLY T.|Technical Services
+991377|VALEROS, JUNAR S.|Technical Services
+991379|BULFANGO, CHRISMA A.|Business Area Operations
+991381|ENOLA, MARIA KRISTINE R.|Business Area Operations
+991382|ORILLA, JONATHAN G.|Business Area Operations
+991383|MANGUI, MERVIC O.|Business Area Operations
+991384|DOMASIG, JOHEN M.|Business Area Operations
+991385|NAVARRO, AL BRITZ M.|Business Area Operations
+991386|REYES, ISABELLE PATRIZHIA ALICIA L.|Commercial and Marketing
+991387|NISAY, GERALD ANDREW L.|Technical Services
+991388|VENEGAS, JAN KRISTINE R.|Commercial and Marketing
+991389|REGALADO, CYBELE MARTHA L.|Finance
+991392|TARAYAO, JOHN PATRICK O.|Technical Services
+991393|BARTOLOME-CULALA, PRESCILA D.|Legal and Regulatory Affairs
+991394|BARIUAN, JAYSON T.|Business Area Operations
+991395|CORTEZ, ROMMEL M.|Water Supply Operations
+991396|SABLAN, REGIE D.|Water Supply Operations
+991397|TUMNOG, HERBERT E.|Water Supply Operations
+991399|BORINEZ, RODNIE A.|Water Supply Operations
+991400|CONDEVILLAMAR, JOHN CALGER R.|Business Area Operations
+991401|NOLLEDO, RIZYN JHON A.|Water Supply Operations
+991402|NICOLAS, NICO MARK I.|Water Supply Operations
+991403|METRAN, EMILIAN A.|Water Supply Operations
+991404|TIMSON, STEPHEN ANDREW S.|Business Area Operations
+991405|ESMERALDA JR., MAURICIO S.|Water Supply Operations
+991406|MORENO, CHRISTIAN JOHN B.|Water Supply Operations
+991407|PIRANTE, PETER WARREN O.|Business Area Operations
+991408|DINO, MARVIN V.|Water Supply Operations
+991409|DALIT, RONALD S.|Program Management
+991410|JULIA, ANTHONY V.|Water Supply Operations
+991411|TADUYO, NELBERT M.|Business Area Operations
+991412|VALEZA, EDWARD B.|Water Supply Operations
+991413|DILOY, EMMANUEL C.|Information Technology Services
+991414|ARCEGA JR., CORNELIO P.|Information Technology Services
+991415|LIM, DENIS M.|Water Supply Operations
+991417|BANOGON, LOVELYN B.|Business Area Operations
+991418|BIBANCO, GERWIN L.|Water Supply Operations
+991419|BILLONES, JEROME P.|Water Supply Operations
+991420|BOTICIAL, ERAF R.|Water Supply Operations
+991421|SABOLBORO, ANJOE ALVIN P.|Business Area Operations
+991422|AVILA, ARIEL R.|Water Supply Operations
+991423|DAYAGDAG, ERIC D.|Water Supply Operations
+991424|GARCIA, JOVAN S.|Water Supply Operations
+991426|NACINO, HERBERT ANTHONY S.|Program Management
+991427|JOSON, JOHN CRIS T.|Business Area Operations
+991428|LOZADA, JAMES CARL M.|Business Area Operations
+991431|VELASCO, ANNE GELLI D.|Logistics
+991433|DIPUTADO, CHRIS VICTOR L.|Central NRW Management
+991435|ARTATES, SYVIE GAY B.|Business Area Operations
+991437|REYES, CHARLES GLENDON G.|Business Area Operations
+991438|PANGILINAN, CHRISTOPHER ANDREW B.|Business Area Operations
+991439|PEREZ, JAIME RENE M.|Water Supply Operations
+991440|RANOCO, CHRISTYFEL B.|Program Management
+991441|PEREZ, EILENE F.|Program Management
+991444|MANGUBAT, SANDER R.|Business Area Operations
+991445|GABIANE, JOHN CARLO A.|Business Area Operations
+991446|DIESTRO, LEVI F.|Human Resources
+991447|DEL ROSARIO, RENAN D.|Business Area Operations
+991448|LIBANG JR., NESTOR S.|Business Area Operations
+991449|ACHAS, CHRISTOPHER BRIAN B.|Business Area Operations
+991450|TOMON, MARK BEN P.|Technical Services
+991451|CALMONA, MARVIN A.|Information Technology Services
+991453|JIMENEZ, JOHN MICHAEL F.|Water Supply Operations
+991454|OMAC, OLIVER GLENN S.|Business Area Operations
+991456|VIOJAN, SYLVESTER N.|Business Area Operations
+991458|TATTAO, WINLOVE B.|Logistics
+991459|AGARAP, JESSICA H.|Water Supply Operations
+991463|CALLADA, JOSEPH A.|Water Supply Operations
+991464|ALABASTRO, ANDREW MARK N.|Business Area Operations
+991465|ALLER, JORGE E.|Central NRW Management
+991467|MAHILUM, LEMUEL N.|Business Area Operations
+991468|ROMERO, ERIC PAUL S.|Business Area Operations
+991469|REMANESES, JOHANNE B.|Business Area Operations
+991471|SANTIAGO, MAURICE JAY S.|Business Area Operations
+991472|SARVIDA, JAHDIEL JOEL S.|Business Area Operations
+991473|TEJOR JR., CESAR H.|Business Area Operations
+991474|CATUBIG, ALLAN H.|Business Area Operations
+991475|DELIN, CRISPIN A.|Water Supply Operations
+991478|EPINO, RANDY M.|Information Technology Services
+991479|PAYAD, REYNALYN C.|Business Area Operations
+991481|AMON, ERNESTO JR V.|Business Area Operations
+991482|PADILLA, ALVEN E.|Business Area Operations
+991483|FARIN, GERALD ZALDY H.|Business Area Operations
+991484|QUIDES, SHERWYN R.|Water Supply Operations
+991485|MELENDREZ, MELISSA S.|Business Area Operations
+991486|GRIPALDA, ROMEO JR. N.|Water Supply Operations
+991487|SANTOS, CHARLEMAGNE S.|Water Supply Operations
+991489|SANTOS, SHERWIN L.|Business Area Operations
+991490|SUSANO, JULIUS G.|Water Supply Operations
+991492|DE GUZMAN, JOSEPH A.|Water Supply Operations
+991493|OJENA, JEFFREY S.|Business Area Operations
+991494|PAR, MAMERTO JR. M.|Business Area Operations
+991496|SAJOT, LEVI B.|Business Area Operations
+991497|GINES, HERWIN C.|Business Area Operations
+991499|ASUNCION, ARNEL M.|Wastewater Management
+991500|PANA, MICHAEL ROD P.|Business Area Operations
+991501|DELA CRUZ, ERIC A.|Water Supply Operations
+991502|RIVERA JR., HENRY V.|Water Supply Operations
+991505|CAPIRAL, ROWELL R.|Water Supply Operations
+991506|COLANGOY, MERIAM M.|Business Area Operations
+991507|VERMOY, ALEX A.|Central NRW Management
+991508|VILLAVERT, JOHN A.|Water Supply Operations
+991509|CHENG, ALLEN MERC G.|Business Area Operations
+991513|MOLATE JR., NESTOR D.|Business Area Operations
+991514|FUNA, JAYSON B.|Business Area Operations
+991516|ORIAS, ANGELO P.|Business Area Operations
+991517|DE GUIA, MICHAEL JOHN P.|Business Area Operations
+991518|ROBLES, LOWELL IVAN A.|Business Area Operations
+991519|DIESTA, BENJIE T.|Business Area Operations
+991520|VASQUEZ, BOYTER C.|Water Supply Operations
+991521|STO. DOMINGO, ROMMEL C.|Wastewater Management
+991523|MARIANO, RONALDO L.|Wastewater Management
+991524|MIRA, JAMES C.|Business Area Operations
+991525|ABANGAN, DIOSAN A.|Business Area Operations
+991526|BELARMA, JOSEPH V.|Water Supply Operations
+991527|REYES, MARIA MONIKA O.|Technical Services
+991528|CAPACIA, JOSHUA M.|Water Supply Operations
+991529|CRUZ, EDNER RYAN E.|Water Supply Operations
+991531|CHAVENIA, MARK JOEY E.|Business Area Operations
+991532|GRANDE, JORDAN V.|Water Supply Operations
+991533|ORE, ANTONIO P.|Water Supply Operations
+991534|CASCALLA, JAY REY A.|Business Area Operations
+991535|GAMBOA, RODORA N.|Human Resources
+991536|GAELA, HEHERSON L.|Water Supply Operations
+991538|DE JESUS, JOHN JERALD H.|Water Supply Operations
+991539|EBINA, NESTOR,  JR B.|Business Area Operations
+991540|ARZADON, ROMULO JOSE D.|Commercial and Marketing
+991541|TENGONCIANG, ANDREW H.|Commercial and Marketing
+991542|GOJAR, JIAN CARLO R.|Business Area Operations
+991544|SOLATORIO, JOSHUA C.|Business Area Operations
+991546|ABRAHANO, JAYSON S.|Central NRW Management
+991547|ABELEDA, DARLEN P.|Central NRW Management
+991548|LAUZON, ARVIN JOSE P.|Central NRW Management
+991549|BARBOZA, RODERICK S.|Technical Services
+991550|TAGUBASE, ELIEZER A.|Information Technology Services
+991552|DEL PRADO, MARK ANTHONY L.|Business Area Operations
+991553|YANGA, ALDRIN M.|Technical Services
+991554|DE GUZMAN, ALBERT S.|Technical Services
+991555|SANTOYO, VICKY V.|Human Resources
+991557|FABRO, ERNIE M.|Business Area Operations
+991558|ARBOLEDA, MA. LORICAR O.|Technical Services
+991559|TORREGOZA, VONN CARLO Q.|Water Supply Operations
+991560|DARIANO, LEONARDO J.|Business Area Operations
+991562|ABINION, RICARDO T.|Wastewater Management
+991563|MARTINEZ, PIERRE DIONE B.|Technical Services
+991564|FERNANDEZ, DANDEL I.|Business Area Operations
+991566|ALFONSO, MARTIN DAVID R.|Technical Services
+991567|BELLEZA, MARK LISTER S.|Business Area Operations
+991568|ZAPANTA, AMMEE LINDA P.|Business Area Operations
+991569|BUCAD, ALEXANDER B.|Business Area Operations
+991570|LACBAO, DIVINA L.|Business Area Operations
+991571|GONZALES, JEFFREY P.|Business Area Operations
+991572|JAUCIAN, SHAYNE ANN R.|Business Area Operations
+991573|DE LEON, TOMMY R.|Business Area Operations
+991574|AYROSO, MA. CECILLIA V.|Business Area Operations
+991576|DIAZ, MICHAEL S.|Business Area Operations
+991577|FAJARDO, ALVIN G.|Business Area Operations
+991578|DELA CRUZ, BRYAN Y.|Business Area Operations
+991579|REGUDO, ROBELO  JR. E.|Business Area Operations
+991581|GATCHALIAN, JESUS A.|Business Area Operations
+991582|LLAVE, MARK CHRIS L.|Business Area Operations
+991583|PARAGAS, ERICSON R.|Business Area Operations
+991584|ESTRELLA, IVAN RAY F.|Business Area Operations
+991585|PLAZA, JINO CARLO D.|Business Area Operations
+991586|CORTES, JENNY B.|Business Area Operations
+991589|CHUA, BRYLLE JIMVER P.|Business Area Operations
+991590|PAGAYON, JAYRON PAUL M.|Business Area Operations
+991593|SANTOS, LEO-VAL M.|Business Area Operations
+991594|ROSAS, RODEZA LOU R.|Business Area Operations
+991595|PINERA, JONATHAN G.|Business Area Operations
+991596|MOLENILLA, JOEY V.|Business Area Operations
+991597|AGUSTIN, ARDIE A.|Business Area Operations
+991598|FUENTES, JOHN PHILIP .|Business Area Operations
+991599|ESPINA, RANDY RYAN P.|Business Area Operations
+991600|RIDESA, CLAUDINE R.|Business Area Operations
+991601|HERNANDEZ, MARIA CECILIA M.|Business Area Operations
+991602|EGE, FERNAN R.|Business Area Operations
+991603|MORTEL, MARK PJ C.|Business Area Operations
+991604|MALIT, RONALD R.|Logistics
+991605|CALCETA, BOBBY CHRISTOPHER B.|Logistics
+991606|SATORE JR, DALMACIO C.|Business Area Operations
+991607|PRESINEDE, JAMIE G.|Information Technology Services
+991608|HERRAS, HERMEL P.|Central NRW Management
+991609|REGALA, NATHANIEL N.|Business Area Operations
+991610|PAYO, JESSIE P.|Water Supply Operations
+991611|CRUZ, MARLON M.|Wastewater Management
+991613|NAVARRO, ARMANDO M.|Business Area Operations
+991614|DUDERO, LEOPOLDO G.|Business Area Operations
+991615|COMETA, BERNADETTE JOY R.|Business Area Operations
+991618|LATURNAS, ROBINSON M.|Technical Services
+991621|VILLANUEVA, MARVIN M.|Water Supply Operations
+991623|ONA-SALDUA, MERCEDITA L.|Legal and Regulatory Affairs
+991625|BERNABE, REX D.|Business Area Operations
+991626|CAMBA, JEFF RON M.|Water Supply Operations
+991627|UY, ROMALYN B.|Central NRW Management
+991628|NEBRE, PHILLIP JADE S.|Central NRW Management
+991629|SABLAS, MICHAEL M.|Corporate Quality, Envt, Health & Safety
+991630|VALDEZ, VICTOR B.|Technical Services
+991631|SANTOS, FLORENCIO M.|Business Area Operations
+991632|BOTOR, JULIE EM A.|Human Resources
+991633|SAN DIEGO, FRANCO L.|Business Area Operations
+991635|LUIS, REYNALDO III J.|Wastewater Management
+991636|MANUEL, CURITA S.|Human Resources
+991637|ESLIZA, DEXTER BRYAN L.|Wastewater Management
+991639|AQUINO, MAXIMA B.|Logistics
+991640|IBARROLA, REGINALD S.|Human Resources
+991642|RAMIREZ, ARVIN JAY A.|Central NRW Management
+991643|CAYABYAB, RAYNEE L.|Central NRW Management
+991644|MIRANDA, CARL S.|Central NRW Management
+991645|ANGELES, JUAN KRISTOPIER D.|Water Supply Operations
+991646|SURIO, MARLON M.|Business Area Operations
+991647|MANALANSAN, JASPER L.|Central NRW Management
+991648|FIGUEROA, EDGARD VIKTOR G.|Business Area Operations
+991650|ENRIQUEZ, CHRISTIAN S.|Water Supply Operations
+991651|ANTIPASADO, HENARD S.|Wastewater Management
+991652|GUTIERREZ, LEONARD L.|Central NRW Management
+991653|REBADULLA, NOLY T.|Business Area Operations
+991654|ORTIZ III, GREGORIO L.|Technical Services
+991656|SANTOS JR., LUISITO G.|Finance
+991657|CASTRO, NORMAN B.|Technical Services
+991658|AGUILAR, VINCENT J.|Technical Services
+991659|OPILLA, ORLAND P.|Technical Services
+991660|SALMORIN, JOSE MARI B.|Central NRW Management
+991661|ANDAL, JOHN PAUL G.|Technical Services
+991662|ACOSTA, SER ANTHONY G.|Business Area Operations
+991663|COLLADO, JONASH J.|Technical Services
+991664|OLIVAS, RYAN A.|Technical Services
+991665|CRUZ, ANALISA C.|Technical Services
+991669|ALCOVER, MARJORIE O.|Business Area Operations
+991672|ALMORADIE, JERON E.|Business Area Operations
+991674|ANCHETA, MICHAEL S.|Central NRW Management
+991678|ARAQUE, ROLANDO A.|Wastewater Management
+991679|ARENDA, DARIO E.|Wastewater Management
+991683|BALDERAS, BRANDON D.|Central NRW Management
+991684|BARREDO, EUGENIO I.|Central NRW Management
+991689|BAYANI, MICHELLE H.|Business Area Operations
+991691|BEJISON, REYIL G.|Central NRW Management
+991692|BERNARDINO, TERONA R.|Business Area Operations
+991698|BORJA, JOJO S.|Wastewater Management
+991699|CABINTOY, RICHARD R.|Central NRW Management
+991700|CAGALINGAN, HAROLD F.|Wastewater Management
+991701|CAJUCOM, DAN HENRY C.|Central NRW Management
+991703|CAPULI, CARLITO T.|Wastewater Management
+991707|CASIL, VERNIE L.|Business Area Operations
+991709|CECILIO, SHERYL VINA B.|Program Management
+991712|CESAR, ELMOR B.|Central NRW Management
+991713|CAMET, CARLA JEAN C.|Business Area Operations
+991715|CRISPO, RELVIN D.|Central NRW Management
+991716|CRUZ, JHORDAN G.|Business Area Operations
+991718|CUEVA, ROD ARGEL P.|Business Area Operations
+991723|DEDASE, CARLOS JR. C.|Water Supply Operations
+991725|DELA CRUZ, MARK S.|Business Area Operations
+991727|DELIN, RAUL I.|Wastewater Management
+991730|CORPUZ, EMMERSON D.|Business Area Operations
+991735|DURAN, LESTER G.|Central NRW Management
+991737|EBUE, JILL ANN N.|Central NRW Management
+991738|ESLABON, RECHEROY D.|Business Area Operations
+991741|FAELDEN, COLLEN L.|Central NRW Management
+991742|FERRER JR., BERNARDO C.|Business Area Operations
+991745|GAELA, CHRISTIAN JAY C.|Central NRW Management
+991748|GARCIA, REYNA LYN S.|Business Area Operations
+991753|GURNEY, MAYLIZA D.|Program Management
+991755|HERMOGENES JR, LARRY A.|Central NRW Management
+991756|HILAO, LEOMAR D.|Wastewater Management
+991757|HUERTO, LESLIE C.|Business Area Operations
+991763|LARGO, SYRA MAY G.|Central NRW Management
+991766|LIWANAG, GAD F.|Business Area Operations
+991770|MACALALAD, WINEFREDO ARCEO P.|Business Area Operations
+991771|MACARAEG, DIANNE B.|Central NRW Management
+991773|MALIBUNAS, FINZY ERIKA ANN D.|Central NRW Management
+991774|MANZANO, CHRISTOPHER S.|Business Area Operations
+991775|LABING-ISA, DONNALYN M.|Central NRW Management
+991776|MARIN, JOSEPH M.|Central NRW Management
+991778|MATUTE, DANILO V.|Wastewater Management
+991779|MATUTINA, ALLAN D.|Wastewater Management
+991784|MENDOZA, GERALD P.|Water Supply Operations
+991786|MERCENE, NINA KARLA R.|Business Area Operations
+991792|NAVALTA, ARNOLD R.|Wastewater Management
+991793|NAVARRA, NORBERTO JR. C.|Business Area Operations
+991794|NITUDA, JIMMY G.|Wastewater Management
+991795|NONATO, EUSEBIO JR A.|Wastewater Management
+991800|OCOL, RAINER LLOYD D.|Business Area Operations
+991801|ONG, VANESSA P.|Business Area Operations
+991805|PAJEL, JAN KHRISNAN B.|Central NRW Management
+991808|PARROCHO, DHABI B.|Central NRW Management
+991810|PASIGUE, MICHAEL JOHN A.|Central NRW Management
+991812|PEREZ, FERDINAND D.|Wastewater Management
+991813|PITAC, ALLAN T.|Wastewater Management
+991814|PONCE, GARY E.|Business Area Operations
+991815|POQUIZ, RICKSON G.|Central NRW Management
+991816|PRIETO, JOHN CARLO S.|Program Management
+991817|PUCAN, MICHAEL C.|Central NRW Management
+991820|OGUING, CHERRY BLOSSOM R.|Business Area Operations
+991823|ROCHA, JULIUS I.|Business Area Operations
+991825|ROMERO, CIDRELL L.|Wastewater Management
+991828|ROQUE JR, ROBERTO S.|Wastewater Management
+991832|SABATEN, RAGELITO M.|Central NRW Management
+991833|SAGPAEY, JEOFFREY A.|Central NRW Management
+991838|SAMULDE, BRYLE V.|Central NRW Management
+991840|SANDOVAL, JEFFREY B.|Wastewater Management
+991841|SATPARAM, JACQUELINE T.|Business Area Operations
+991846|STA. MARIA, BRYAN D.|Central NRW Management
+991848|TAGBAGO, CARL ALDRIN R.|Central NRW Management
+991850|PAGUIRIGAN, LAURENCE T.|Business Area Operations
+991851|TANAEL, GILBERTO V.|Central NRW Management
+991853|TORRES, JOEY P.|Wastewater Management
+991857|VALENZUELA, HAROLD RAYMOND S.|Business Area Operations
+991861|VILLAFUERTE, ALDRIN L.|Central NRW Management
+991862|VILLANUEVA, ANA ISABEL S.|Business Area Operations
+991863|VILLANUEVA, ROMMEL JOSEPH A.|Central NRW Management
+991867|VIRGO, PAULO D.|Central NRW Management
+991870|ZAPANTA, ORLANDO C.|Wastewater Management
+991874|AVILA, JESUS JR. A.|Central NRW Management
+991875|NOCEDA, RONEL G.|Business Area Operations
+991879|GALANG, RICHELA P.|Central NRW Management
+991880|BALDONADO, GIZELLE B.|Central NRW Management
+991882|REYES, JAN PATRICK S.|Wastewater Management
+991891|CRUZ, RANDY C.|Business Area Operations
+991893|SENERIS, NONETTE KIM R.|Central NRW Management
+991896|DIMAYUGA, MARICEL PRECIOSA A.|Finance
+991897|SING, JEMAR D.|Program Management
+991899|DEMABILDO, MARK C.|Wastewater Management
+991900|ABRIGO, NEIL DORLAN L.|Technical Services
+991905|BAHALA, LOLITO S.|Wastewater Management
+991910|SARMIENTO, JOSHUA D.|Logistics
+991912|TAYABAN, DANILO M.|Wastewater Management
+991917|CAPARAS, ERWIN NICO C.|Central NRW Management
+991926|LUCBAN, ROSELLE ANN L.|Central NRW Management
+991928|ARCIAGA, PEDRO JR. N.|Wastewater Management
+991929|SAYONG, DANIEL F.|Central NRW Management
+991930|EVANGELISTA, GELLA MARIE P.|Central NRW Management
+991931|ALIMARIO, MARK RYAN V.|Central NRW Management
+991933|JOSEPH, ANN GABRIELLE F.|Business Area Operations
+991936|SILAO, JERAMAE P.|Business Area Operations
+991938|LUBO, PAOLA IZALEA F.|Business Area Operations
+991940|ISIDRO, MARION ADRIAN ALEXIS T.|Business Area Operations
+991943|ALMAZAN, ALDRIN LEO G.|Logistics
+991944|CAJAYON, EDISON JR. A.|Central NRW Management
+991947|HILAY, MA. HYGEIA S.|Central NRW Management
+991948|SILLEZA, DESIREE A.|Central NRW Management
+991950|SANTOS, GELMER SARAH D.|Program Management
+991952|AQUINO, KRISTIAN ROSS S.|Central NRW Management
+991953|VIRAY, MELANIE M.|Finance
+991961|SPALDING, SER RAYMOND O.|Central NRW Management
+991964|OLORVIDA, CARLO A.|Central NRW Management
+991968|TAN, KIM VINCENT F.|Business Area Operations
+991969|CAPACIA, AMON C.|Program Management
+991972|GARCIA, RICHARD S.|Water Supply Operations
+991977|PAGULAYAN, ARNEL C.|Water Supply Operations
+991978|MENDOZA, HOPE D.|Central NRW Management
+991982|SARDENG, ARIEL PAUL S.|Central NRW Management
+991990|LATOJA, JASON Y.|Program Management
+991991|BAUDIN, PAUL KAEZER J.|Central NRW Management
+991992|PRIETO, JOHN PAUL F.|Program Management
+991994|ABELLA, DESEREE L.|Water Supply Operations
+991997|AQUINO, MARC ZENON U.|Wastewater Management
+992002|SANTOS, PAULA MARIANNE REGINA T.|Commercial and Marketing
+992003|MEMBRERE III, BENEDICTO L.|Commercial and Marketing
+992006|GUTIERREZ, JUNE ANTHONY S.|Business Area Operations
+992009|MIPALAR, JERICK GAYLORD T.|Central NRW Management
+992012|LANDAYAN, MEDEL OLIVER S.|Program Management
+992013|CHEUNG, MARK FRANCIS L.|Logistics
+992015|ANDAYA, ROBBY T.|Central NRW Management
+992016|SUMALINOG, DAN MARK M.|Central NRW Management
+992017|MAGA, CHARLYNN N.|Central NRW Management
+992018|CELIZ, JEFFRY R.|Central NRW Management
+992021|VILLAROSA, RACHELL ANN D.|Central NRW Management
+992022|ESTEVES, KENNETH JOHN E.|Central NRW Management
+992024|ARGOTE, EMMA A.|Human Resources
+992025|TAN, ROMWELL LOUIS L.|Wastewater Management
+992027|TAMSI, REGINALD N.|Finance
+992032|PEÑA, CAMILLE MINETTE .|Program Management
+992035|VILLANUEVA, MARIA NOIME D.|Business Area Operations
+992036|SOLIS, MARIA CHRISTINA A.|Business Area Operations
+992037|CALLUENG, KAREN .|Program Management
+992040|BANGOLAN, REYDENIS .|Technical Services
+992043|URSUA, JOYCE V.|Technical Services
+992047|TAWAY, MARK ANTHONY T.|Central NRW Management
+992048|NAZARENO, JO-ANNE S.|Technical Services
+992054|CRUZ, JOHN DEVIS P.|Technical Services
+992056|AGUSTIN, PAUL MICHAEL B.|Technical Services
+992066|CHUA, LAURA MELISSA H.|Technical Services
+992069|SABIO, AARON JAMES G.|Technical Services
+992072|GARCIA, JOHN GERVIN D.|Technical Services
+992077|ESTINIDO, JOMEL L.|Business Area Operations
+992091|CASTRO, MARK JOSEPH P.|Wastewater Management
+992093|BARTOLAY, JOSEPH P.|Wastewater Management
+992094|TOLENTINO, CARLO M.|Wastewater Management
+992095|HERRERA, MARK JASON M.|Logistics
+992096|FLORES, SHEENA MARIE R.|Information Technology Services
+992097|SONGCO, JUAN DIEGO .|Wastewater Management
+992098|INOCENCIO, ANNA ISABELLA .|Wastewater Management
+992099|ELIZAGA, JEFFREY E.|Wastewater Management
+992100|ANGELES, HARVEY ANGELO T.|Water Supply Operations
+992101|PALOMA, MARIANNE S.|Information Technology Services
+992102|LIMPIN, JANELLE PATRICIA .|Information Technology Services
+992103|CASTRO, JOBOY B.|Program Management
+992104|TOMARONG, MAYFLOR S.|Logistics
+992105|MADLANGSAKAY, JUSTINE G.|Technical Services
+992106|FLORES, MELVIN JOHN V.|Corporate Quality, Envt, Health & Safety
+992107|BALINGIT, ERDIE C.|Wastewater Management
+992108|BALIDOY, ADRYAN I.|Wastewater Management
+992109|MAOIRAT, MARK RYAN M.|Program Management
+992110|CAPILI, CLAUDETTE ANNE G.|Water Supply Operations
+992111|DE VILLA, RHEA H.|Water Supply Operations
+992112|ROMERO, LEA ANGELA P.|Program Management
+992113|CRUZ, MARI ANNE LOUISE G.|Business Area Operations
+992114|FRANCISCO, JENCIE LEONOR R.|Business Area Operations
+992115|IMSON, KATHLEEN V.|Water Supply Operations
+992116|VILLAR, PETERSON C.|Technical Services
+992117|VERACRUZ, GIANNA I.|Corporate Quality, Envt, Health & Safety
+992118|VEGA, PATRICK T.|Water Supply Operations
+992119|PANTALEON, ALVIN G.|Wastewater Management
+992120|REYES, MARK AUDWIN M.|Central NRW Management
+992121|HERNANDEZ, JOHN KELVIN L.|Program Management
+992122|USON, JOHN ERWIN A.|Wastewater Management
+992123|FABILA, DANIEL CARLO M.|Wastewater Management
+992124|MANGLAPUS, MA. LUISA C.|Central NRW Management
+992125|CHICA, GENNEVIE LOIS A.|Central NRW Management
+992126|GOMEZ, KEVIN VERNON N.|Wastewater Management
+992127|COLOT, NESTY T.|Water Supply Operations
+992133|PATRIARCA, DANIEL P.|Business Area Operations
+992135|MENDOZA, RYAN P.|Wastewater Management
+992136|ESTEBAN, GIAN CARLO R.|Central NRW Management
+992152|ANDRES, PATRICK CARLO C.|Technical Services
+992153|JAEN, JOHN CALVIN V.|Business Area Operations
+992154|CASTILLO, ADRIANNE ROSE G.|Water Supply Operations
+992156|FETALVER, MARK ANTHONY G.|Business Area Operations
+992161|MICLAT, KATHERINE A.|Business Area Operations
+992163|MONSANTO, MARY GRACE S.|Central NRW Management
+992167|CABATU, JEAN HILLARY L.|Human Resources
+992169|CABATINGAN, ERWIN O.|Finance
+992170|ISAGUIRRE, KAREN RAY B.|Water Supply Operations
+992171|CECILIO, LOUISE MARIE R.|Information Technology Services
+992172|REYES, EMMANUEL D.|Business Area Operations
+992173|REYES, JEREMIAH E.|Program Management
+992174|DAMASCO, THENA T.|Central NRW Management
+992175|SANCHEZ, JOANNA D.|Water Supply Operations
+992176|ASARAL, AL-HABER RASAD L.|Program Management
+992177|TUAÑO, JOHN MARK T.|Water Supply Operations
+992178|LUCAS, MARIA MELLIZA GAYLE R.|Program Management
+992179|MUEGA, SHERWIN C.|Business Area Operations
+992180|Duroy, SARAH LYNN S.|Corporate Quality, Envt, Health & Safety
+992181|ANDRES, GILBERT ALVIN A.|Water Supply Operations
+992182|BAGTAS, MARK DIOVAN S.|Central NRW Management
+992183|MACADAT, REGINE N.|Program Management
+992184|ELAN, JUNI JANE I.|Corporate Quality, Envt, Health & Safety
+992185|REYES, JESSICA MARIE C.|Technical Services
+992186|AGUILAR, SEAN D.|Business Area Operations
+992187|IGNACIO, JAKE A.|Technical Services
+992188|CRUZ, JOHN PAUL G.|Central NRW Management
+992189|SAPNU, CHARMAINE B.|Technical Services
+992190|PRUNA, JOHN CARLO .|Central NRW Management
+992191|CASTRO, RENNIER P.|Business Area Operations
+992192|JACLA, BRYAN M.|Program Management
+992193|CAPUYAN, JONARD S.|Water Supply Operations
+992194|DUROY, JEM MARK DIXON L.|Water Supply Operations
+992195|NEBRIDA, JESSICA ELVIN Y.|Business Area Operations
+992196|ALMARIO, KENNETH F.|Wastewater Management
+992200|MATUBIS, ANNE MARIE M.|Water Supply Operations
+992202|SILLEZA, JAN A.|Corporate Quality, Envt, Health & Safety
+992204|CIROY, BRIAN A.|Corporate Quality, Envt, Health & Safety
+992205|VALDEZ, HARRY A.|Corporate Quality, Envt, Health & Safety
+992207|GAMOTIN, ARRIANNE M.|Commercial and Marketing
+992209|YGOÑA JR., DOMINGO E.|Information Technology Services
+992211|MENDOZA, JOEL .|Wastewater Management
+992212|LARA, RICARDO C.|Wastewater Management
+992213|COLLANTES, MURIEL FAE E.|Finance
+992215|LERIOS, KRISTAN T.|Business Area Operations
+992216|QUEBRAL, JIGGER II R.|Wastewater Management
+992217|SOSA, ROI MELVIN A.|Wastewater Management
+992218|PALAFOX, DOMINIC M.|Wastewater Management
+992222|LINAG, ANGELICA C.|Technical Services
+992223|POBLACION, MERLIZA A.|Wastewater Management
+992226|TABUCOL, JAYSON G.|Wastewater Management
+992227|BARRENUEVO, RENANTE G.|Wastewater Management
+992232|BILAW, JOHN RAY A.|Wastewater Management
+992237|SERRANO, WINEFREDO U.|Business Area Operations
+992238|SERRANO, DARIEL I.|Logistics
+992239|BAYLEN, JIGO A.|Business Area Operations
+992240|CUREG, RODEN P.|Business Area Operations
+992241|COMPLETADO, BON JESTEL T.|Technical Services
+992242|BARBASO, ALIXANDRE EUNICE P.|Business Area Operations
+992243|HAYAO, JUNIE Y.|Business Area Operations
+992244|BENITO, GONZALO R.|Wastewater Management
+992245|NAZARENO, LEONYRICK T.|Wastewater Management
+992246|ARCILLA, ELLERY B.|Logistics
+992247|ROA, ARIES MAE T.|Technical Services
+992248|RESALUTE, NILO JR. A.|Wastewater Management
+992249|NEPOMUCENO, MARICAR R.|Water Supply Operations
+992250|MALOLOS, HARVEY A.|Program Management
+992253|GAYOSA, TRACY ANN M.|Legal and Regulatory Affairs
+992257|ROSELLO, RICO JR. N.|Business Area Operations
+992258|PAR, MAYNARD D.|Information Technology Services
+992259|PEÑA, JEFFREY O.|Business Area Operations
+992260|CAMOGAO, JEFFREY Y.|Wastewater Management
+992261|TAJON, MA. CRISTINA A.|Water Supply Operations
+992262|LAMAR, LORI JOY A.|Business Area Operations
+992263|OLAER, CHRISTIAN O.|Wastewater Management
+992264|TABOBO, JOSE MARI P.|Human Resources
+992265|RIVERA, CLARICE A.|Water Supply Operations
+992266|MISOLIS, EDWIN M.|Business Area Operations
+992267|CAOILE, CHRISTIAN RAYMOND R.|Business Area Operations
+992269|GUEVARA, JULIUS G.|Program Management
+992270|DE CASTRO, EDWIN M.|Central NRW Management
+992272|DOMINGUEZ, ALVIN M.|Wastewater Management
+992273|ZAMORA, GLENN B.|Wastewater Management
+992275|DE LEON, RICHARD D.|Business Area Operations
+992276|VENCIO, MARK M.|Business Area Operations
+992282|PANLILIO, JIMMY M.|Corporate Quality, Envt, Health & Safety
+992283|LONTOC, FEM ARNEL .|Business Area Operations
+992284|VILLAR, ROSITA A.|Logistics
+992285|LUCENIO, JOMAR N.|Business Area Operations
+992288|NAVARRO, REY ISAAC A.|Central NRW Management
+992291|EMMANUEL, LILET T.|Central NRW Management
+992295|ABOGANDA, MELVIN C.|Business Area Operations
+992296|DELA CRUZ, MA. LUNIE C.|Finance
+992297|DEL ROSARIO, JAYSON R.|Business Area Operations
+992298|NAVARRO, HENRITO E.|Business Area Operations
+992299|VALENZUELA, ROY V.|Business Area Operations
+992300|FLOR, MARLON S.|Business Area Operations
+992301|TORRELIZA, JOHN CESAR V.|Business Area Operations
+992302|TABULA JR., HERBERT ORLANDO B.|Business Area Operations
+992303|ENSELENCIA, REAGAN D.|Business Area Operations
+992304|BERMIDO, JERMAINE F.|Water Supply Operations
+992305|BAG-AO, MEVIELYN .|Business Area Operations
+992306|TEJAS, MA. DULCE C.|Water Supply Operations
+992307|CALAYCAY, GINNY VIVIEN T.|Water Supply Operations
+992308|FELICITAS, EVELYN B.|Logistics
+992314|ALISON, JOHN WILLY O.|Business Area Operations
+992315|ROY, KRISTIAN M.|Water Supply Operations
+992322|PICHAY, SHEENA MARIE D.|Central NRW Management
+992324|CAPANZANA, CHRISTOPHER S.|Logistics
+992327|CORADO, JEREMIAH R.|Business Area Operations
+992328|HORTELANO, KEN .|Business Area Operations
+992329|SANTOS, DARYL JULIUS T.|Business Area Operations
+992330|QUINTO, REYMARK A.|Business Area Operations
+992333|GARIN, FELIZA MAY C.|Human Resources
+992334|ALONZO, REINA D.|Business Area Operations
+992336|DUMINDIN, CARLO G.|Business Area Operations
+992337|JACINTO, ROMEO P.|Business Area Operations
+992338|AYUBAN, JEMSON B.|Business Area Operations
+992339|SANTIAGO, RACHEL ANNE D.|Business Area Operations
+992340|MARAMBA, ZYV .|Program Management
+992342|VELASCO, WEBSTER I.|Water Supply Operations
+992343|QUITLONG, DANIEL RAY P.|Corporate Quality, Envt, Health & Safety
+992344|ALEJANDRINO, LORENNE V.|Commercial and Marketing
+992347|TRINIDAD, JOSEPH F.|Business Area Operations
+992348|SINAON, MELISSA S.|Legal and Regulatory Affairs
+992349|VIDAL, JOHN KEVIN P.|Business Area Operations
+992350|LUGMAO, REYNANTE G.|Business Area Operations
+992351|HERAMIL, FELINO L.|Business Area Operations
+992352|SALLAO, MARK RONALD D.|Business Area Operations
+992353|BANTAYAN, REGI S.|Water Supply Operations
+992354|VELASCO, RENATO S.|Water Supply Operations
+992355|CARRIEDO, ALLAN F.|Water Supply Operations
+992365|CRUZ, MA. CECILIA G.|Corporate Quality, Envt, Health & Safety
+992366|CABERO, MARK JOSEPH H.|Water Supply Operations
+992367|SOLVERO, DEBBIE P.|Water Supply Operations
+992368|ALBAN, ADRIAN CONRAD S.|Business Area Operations
+992369|CREBILLO, FLORO II B.|Water Supply Operations
+992370|FERNANDO, ROLANDO R.|Water Supply Operations
+992377|LIM, JEFFREY M.|Central NRW Management
+992378|OLVIDO, RICARDO JR. D.|Water Supply Operations
+992383|CORBITA, CHARLOTTE N.|Central NRW Management
+992384|ESTRELLADO, JONATHAN M.|Central NRW Management
+992385|ARCANGEL, MOISES PATRICK B.|Business Area Operations
+992386|VILLAR, BEVERLY C.|Human Resources
+992391|NERPIO, NOEL N.|Water Supply Operations
+992393|GUILLERMO, KARINA RAE R.|Technical Services
+992397|IPORAC, RYAN JOSEPH R.|Central NRW Management
+992398|CUNANAN, MICHELLE F.|Commercial and Marketing
+992399|ZAIDE, MADELEINE D.|Commercial and Marketing
+992427|OMIPLE, LAWRENCE P.|Water Supply Operations
+992428|CONSUL, BERNADETTE C.|Commercial and Marketing
+992430|DELA PEÑA, JAMES III C.|Central NRW Management
+992432|DANCEL, KIM JOHN S.|Human Resources
+992433|ROBLES, JEFFREY C.|Water Supply Operations
+992439|CEPILLO, JOHN CLEON A.|Business Area Operations
+992440|HOLGADO, JOSELITO  .|Water Supply Operations
+992446|TAN, PAULINE MARIE L.|Logistics
+992447|ESTERAS, MARIA REGINA PAZ D.|Business Area Operations
+992449|SUMAYA, JUNNIUS C.|Program Management
+992450|FONSECA, BENILDA M.|Program Management
+992454|OFIANA, GERALYN B.|Information Technology Services
+992456|DALEN, RUFO S.|Water Supply Operations
+992458|ALMELOR, ALYZA Z.|Wastewater Management
+992463|CHIUCO JR., ALFREDO E.|Technical Services
+992467|DONESA, MARK ANTHONY D.|Business Area Operations
+992468|DALUBATAN, DIOCEL A.|Wastewater Management
+992470|PACLEB, CRISTOBAL B.|Business Area Operations
+992471|RAMOS, BENEDICT I.|Business Area Operations
+992472|MALBAS, MICHAEL LORDAN P.|Business Area Operations
+992473| SANTOS, ISAIAH THOMAS F.|Business Area Operations
+992474|BALMACEDA, RAYMART A.|Central NRW Management
+992476|INTUD, CHUCK E.|Business Area Operations
+992477|DAWAY, RHEY JOSEPH S.|Business Area Operations
+992478|VIRTUDAZO, ALLEN PAUL J.|Business Area Operations
+992488|ANDRINO, EDUARDO JR. M.|Program Management
+992489|VILLACERAN, ELLAH MEA R.|Business Area Operations
+992490|TIBAY, MA. ARLIZE H.|Business Area Operations
+992491|BISNAR, EDWIN N.|Central NRW Management
+992492|GUERTA, JOSEPH PETER A.|Business Area Operations
+992496|ARIDIDON, BERNARD D.|Technical Services
+992497|FARIÑAS, DANIELLE IVY B.|Logistics
+992498|RACOMA, JEE-ANN A.|Business Area Operations
+992502|RAMOS, MARY FAITH S.|Wastewater Management
+992503|MORADA, BEN A.|Business Area Operations
+992504|PINGOL, RALPH SIMOUNE M.|Business Area Operations
+992505|SUNANG, ELIEZER D.|Business Area Operations
+992524|BUDUAN, BERNARD KARLO B.|Wastewater Management
+992525|PELAEZ, MARK JASON D.|Wastewater Management
+992526|AGUSTIN, JERICO D.|Technical Services
+992527|SORIANO, MICHAEL GENESIS Y.|Wastewater Management
+992528|BAWALAN, JENNIFER B.|Central NRW Management
+992529|TABIAN, ADRIAN A.|Business Area Operations
+992534|CRUZ, JEROME PAOLO R.|Finance
+992535|VARGAS, EMILIAN C.|Business Area Operations
+992539|PANUGOT, VICTORINO M.|Wastewater Management
+992540|CENAROSA, ANA THEA B.|Water Supply Operations
+992542|MARIN, MARY GRACE D.|Business Area Operations
+992543|MALAHITO, EDISON C.|Program Management
+992544|STA. ANA, OLIVER B.|Human Resources
+992545|CORONEL, PHILIP ROI G.|Water Supply Operations
+992546|BANDAYING, FHADZMIR J.|Water Supply Operations
+992547|CUBO, CLAUDE S.|Water Supply Operations
+992548|SANCHEZ, RAFAEL Y.|Water Supply Operations
+992549|CORTON, REYNALDO P.|Central NRW Management
+992551|RABOR, MICHAEL JAN A.|Business Area Operations
+992555|NAZARRO, ROLF LESTER M.|Technical Services
+992558|AQUINO, JALEENA DAPHNE .|Human Resources
+992559|DADANG, SIEMENS DESIREE J.|Business Area Operations
+992560|SIBAL, LEONARDO III N.|Corporate Quality, Envt, Health & Safety
+992561|PATACSIL, DANIEL C.|Central NRW Management
+992562|MACAHINDOG, JECELYN V.|Commercial and Marketing
+992563|LOQUINARIO, MARK ANTHONY D.|Wastewater Management
+992565|DAYAON, GIPSY C.|Wastewater Management
+992568|Medina, Aira Camille M.|Central NRW Management
+992569|Ebcas, Jerwen A.|Business Area Operations
+992570|Tan, Lei-Anne Y.|Business Area Operations
+020108|ABDULA, RODANTE S.|Program Management
+020507|AGANON, DOMINADOR I.|Technical Services
+020607|AGANON, ROGIN G.|Technical Services
+030208|CRUZ, NOAH B.|Central NRW Management
+030707|AGUILAR, AURELIO F.|Program Management
+041107|LUCAS, FRANCISCO G.|Central NRW Management
+070208|ANYAYAHAN, CECILIO M.|Program Management
+080607|BANCI, LOISEL R.|Program Management
+082006|GERONA, ROBERTO M.|Program Management
+130707|ROBLES, MARIETTA D.|Program Management
+152006|SANTOS, HERBERT V.|Program Management
+180707|TALPLACIDO, ANDRIAN B.|Program Management
+200507|REYES, EMILY M.|Program Management
+270607|PAYUMO, MANUEL P.|Program Management
+340408|SANTURDIO, JULIPH ANTHONY B.|Program Management
+370308|PASCUA, MEL ANTHONY F.|Program Management
+380308|SERRANO, CHERRY B.|Program Management
+382003|MACUHA, CIRILO S.|Program Management
+412006|DUMAGPI, RALPH M.|Program Management
+490408|CAPITULO, WINDY N.|Central NRW Management
+492006|SANTOS, RITA M.|Central NRW Management
+550408|INDIANO, SOLOMON A.|Program Management
+572006|TRIGUERO II, BENJAMIN C.|Program Management
+990865|PAJARES, ADAM A.|Program Management
+990877|MULAWIN, EDWARD D.|Technical Services
+990897|SAMPAGA, EDWIN W.|Technical Services
+991670|ALMAIDA, DENNIS B.|Central NRW Management
+991671|ALMAZAN, GEORGE D.|Central NRW Management
+991673|ANCHETA, MICHAEL L.|Central NRW Management
+991677|ARABIA, RODERICK M.|Wastewater Management
+991680|ARMEA, JESS PAULO C.|Central NRW Management
+991685|BASICAL, BENJAMIN S.|Central NRW Management
+991693|BIADOR, BRYAN B.|Central NRW Management
+991696|BOLVAR JR., ANGELES V.|Central NRW Management
+991697|BONONO, JEMBHOY M.|Central NRW Management
+991704|CARCHA, JALDEN D.|Central NRW Management
+991705|CARILLAS, ROLLY M.|Wastewater Management
+991706|CARULASAN JR, JAIME R.|Central NRW Management
+991708|CATINDOY, ARNULFO M.|Wastewater Management
+991711|CERENO, ELTON A.|Central NRW Management
+991719|DABOC, HENRY B.|Wastewater Management
+991722|DE LOS REYES, NICLITO G.|Wastewater Management
+991724|DEL SOCORRO, EDMHAR S.|Central NRW Management
+991726|DELA PACION, JAYSON B.|Central NRW Management
+991729|DEPRA, RUZEL C.|Central NRW Management
+991731|DOMINGO, RONIE D.|Central NRW Management
+991732|DOMINGO, BRIAN ANDREW B.|Central NRW Management
+991733|DOMONDON, CANDIDO P.|Central NRW Management
+991743|FRIANEZA, JOHN MAYER A.|Central NRW Management
+991747|GAPAS, NORMAN M.|Central NRW Management
+991750|GILHANG, JIMMY S.|Wastewater Management
+991751|GRAGASIN, IAN CRISHTOPER M.|Central NRW Management
+991754|GUTIERREZ, MARVIN JOHN D.|Central NRW Management
+991759|LABAGNOY, MARK KENELL P.|Central NRW Management
+991760|LABAGNOY, NELSON J.|Central NRW Management
+991761|LABORTE, MARLON R.|Central NRW Management
+991764|LEGARTO, BEN JOSEPH C.|Central NRW Management
+991765|LITARGO, REYNALD .|Central NRW Management
+991767|LOMENARIO, DARWIN G.|Central NRW Management
+991768|LOTA, MARVIN T.|Central NRW Management
+991769|MABBORANG, JEREMIE A.|Central NRW Management
+991780|MAULION, ALWYN M.|Central NRW Management
+991782|MELO, RICHARD N.|Central NRW Management
+991783|MENAJE, MARK JEFFREY G.|Central NRW Management
+991785|MERANO JR., CHARLIE M.|Central NRW Management
+991788|MORANTE, CAVINREY M.|Central NRW Management
+991790|NASAYAO, JAYPEE T.|Central NRW Management
+991797|OBRA, FERNANDO JR. G.|Central NRW Management
+991799|OCCENO, JEXTER JAN P.|Central NRW Management
+991803|PADRIQUE, ANGELO A.|Central NRW Management
+991804|PAGUIO, RODEL H.|Central NRW Management
+991807|PARAGAS, ANDERSON T.|Central NRW Management
+991811|PENALES, RICHARD B.|Central NRW Management
+991818|QUIACHON SR, ROMEO A.|Wastewater Management
+991821|RAMOS, ANACLETO R.|Central NRW Management
+991824|RODOY, SILVERIO JR. H.|Central NRW Management
+991827|RONQUILLO, MONICO JR. G.|Central NRW Management
+991831|SABADO, SHERWIN R.|Central NRW Management
+991835|SALAZAR, MICHAEL ANGELO D.|Central NRW Management
+991836|SALVADOR, JEFFREY R.|Central NRW Management
+991839|SAN JOSE, IVAN GRETZSKY C.|Central NRW Management
+991843|SEVILLO, WILLIE JR. C.|Central NRW Management
+991854|TRINIDAD, ROMMUEL JOHN B.|Central NRW Management
+991858|VALERA, REYNALDO JR. C.|Central NRW Management
+991859|VALERA, RICHARD C.|Central NRW Management
+991864|VILLANUEVA, MARK ALVIN T.|Central NRW Management
+991865|VILLANUEVA, RANDY C.|Central NRW Management
+991869|YANGA JR., MARIO G.|Central NRW Management
+991872|GITO, RICHARD V.|Business Area Operations
+991873|FERNANDEZ, RODERICK B.|Central NRW Management
+991876|RAMOS, RALPH B.|Central NRW Management
+991877|VIPINOSA, RUDANTE G.|Central NRW Management
+991878|TELEWIK, JONATHAN L.|Central NRW Management
+991885|MONTALBAN JR., EULOGIO M.|Central NRW Management
+991886|RANCHEZ, BRIAN JEFF Q.|Wastewater Management
+991887|VALENCIA, CELESTHER J.|Program Management
+991888|JACOBO, JOSELITO B.|Wastewater Management
+991895|ECALNE, JAY A.|Wastewater Management
+991901|BAUTISTA, MUTYA M.|Central NRW Management
+991908|ALFONSO JR, ARMANDO S.|Wastewater Management
+991911|LLANETA, NELSON JR. N.|Wastewater Management
+991913|ONDILLO, RICO ANDREW B.|Program Management
+991925|AQUINO, MARY GRACE D.|Program Management
+991935|CAOILE, RODRIGO CAESAR P.|Central NRW Management
+991946|MADRINICO, MARK ANTHONY P.|Central NRW Management
+991954|CERCADO, JERUSALEM M.|Central NRW Management
+991955|GALINO, MELODY M.|Program Management
+991958|DIMAPILIS, FLORENCIO D.|Wastewater Management
+991959|SALABE, WILLIAM S.|Wastewater Management
+991970|PANELO, JERRYSON B.|Program Management
+991976|CASTELLANO, ADRIAN JOSEPH C.|Program Management
+991979|DOLLETE, LEAN LEE R.|Central NRW Management
+991989|LUCENA, MELVIN B.|Central NRW Management
+991996|CHU, JOE MARI G.|Program Management
+991999|LUMANLAN, JULIUS MIGUEL S.|Central NRW Management
+992000|ESTEBAN II, JAYR A.|Central NRW Management
+992001|DIZON, JASPER IAN J.|Program Management
+992007|MONGAYA, MARLON M.|Central NRW Management
+992011|JAGODILLA, SHEENA C.|Program Management
+992020|CAPARINO, BERNARD S.|Central NRW Management
+992026|RAMIREZ, ALDWIN S.|Program Management
+992029|DE PASION I, GODWIN D.|Central NRW Management
+992033|EVANGELISTA, JHON MICHAEL D.|Central NRW Management
+992034|ESCAPALAO, JELINE M.|Program Management
+992038|GOMEZ, RICKY BOY J.|Technical Services
+992041|GONZALES, FRANCIS JOSE .|Technical Services
+992042|REYES, RANZEN EARL .|Technical Services
+992045|DE CASTRO, KENNETH P.|Technical Services
+992046|FLORES, LESTER D.|Technical Services
+992049|NOBIO, MELVIN G.|Technical Services
+992050|FORTE, JHERRY R.|Technical Services
+992051|AGUIRRE, JENOLD P.|Technical Services
+992052|QUILAPIO, VICENTE C.|Technical Services
+992053|REGALA, REYNALDO JR. S.|Technical Services
+992057|SANTOS, DARWIN L.|Technical Services
+992058|LAYESE, RICKY S.|Technical Services
+992060|CATON, DENNIS F.|Technical Services
+992061|BONDOC III, SALVADOR F.|Technical Services
+992062|GARCIA, RAYMOND N.|Technical Services
+992063|JAMON, JOSE NICO B.|Technical Services
+992064|SASI, GEOFFREY B.|Technical Services
+992065|OCA, JOHN REY M.|Technical Services
+992067|PEREZ, MARVIN P.|Technical Services
+992068|ESTEBAN, GYRON OLIVER P.|Technical Services
+992070|TUMALI, ROGEL JOHN T.|Technical Services
+992071|BACOD, ARJAN E.|Technical Services
+992073|BARLAAN, JAY S.|Technical Services
+992074|ORBINA, MARK JIM A.|Technical Services
+992075|GABITAN, ZALDY .|Technical Services
+992076|AVELINO, MARK JOSEF R.|Technical Services
+992078|AUXTERO, IAN A.|Technical Services
+992081|TIGLAO, CARLA ANGELA A.|Technical Services
+992082|POMBO, LUIGI D.|Technical Services
+992083|GA, JEZREEN LEWIS Y.|Technical Services
+992085|BORINAGA, ISMAEL P.|Program Management
+992089|MEMORACION, DANILO A.|Technical Services
+992129|EGANA, EUGENIO E.|Wastewater Management
+992134|GONGORA, QUINELLE B.|Wastewater Management
+992137|SECONDEZ, ENRICO L.|Central NRW Management
+992138|BORJA, RANDY E.|Technical Services
+992140|MIRANDA, RYAN P.|Central NRW Management
+992143|SALVO, JOHN CARLO C.|Central NRW Management
+992144|FRANCISCO, JONA D.|Technical Services
+992145|ROMERO, JOHN FREDERICK C.|Central NRW Management
+992147|TUD, ALLISTER JOHN L.|Central NRW Management
+992148|PACCIAL, RHONIE REY A.|Technical Services
+992149|ALPIDO, JEFFREY M.|Central NRW Management
+992150|BUNAG, JOSEPH D.|Central NRW Management
+992155|JOSE, JEFFERSON L.|Central NRW Management
+992158|EDURIA, JEANNE ROSE S.|Central NRW Management
+992160|BUDUAN, HESSYR CLEENE D.|Technical Services
+992164|RAYMUNDO, SHIELA  MARIE S.|Technical Services
+992165|VALENCIA, VANESA T.|Central NRW Management
+992168|SALIOT, BRYNER O.|Central NRW Management
+992197|PASAOA, FEDERIC N.|Program Management
+992203|BELMONTE, KRISZENY JOY L.|Program Management
+992208|AQUINO, RELLY MAY P.|Central NRW Management
+992210|BUÑAG, JASON ANGEL L.|Central NRW Management
+992219|ESQUERA, JAMES PETER .|Wastewater Management
+992220|ELEOTERIO, JOEMAR M.|Wastewater Management
+992228|CATALAN, ARCHIE S.|Wastewater Management
+992235|ASTROLOGO, GARY G.|Wastewater Management
+992236|RAMIREZ, JOHN LORENZ B.|Program Management
+992251|AGUILA, ROMAR R.|Wastewater Management
+992252|BAGDOC, EUGENE C.|Wastewater Management
+992254|AMBELON, MONCHITO A.|Wastewater Management
+992256|ESPAYOS, SALVADOR JR. A.|Wastewater Management
+992268|PARAMEO, LEMUEL D.|Technical Services
+992277|CARO, RHUZIEL JOY .|Technical Services
+992278|BAONG, DANIEL .|Wastewater Management
+992279|MARGARITO, GILBERT B.|Wastewater Management
+992287|CALUMPITA, IRIS JAY .|Central NRW Management
+992289|MENDIOLA, JERICO JACOB A.|Central NRW Management
+992290|ANIL, FERNANDO T.|Wastewater Management
+992292|LEE, LANCE DAVID S.|Central NRW Management
+992294|DACDAC, MARKPHIL H.|Wastewater Management
+992309|MASINDA, JOHN HENRY P.|Central NRW Management
+992310|BERINGEL, RAYNEE DAVE D.|Central NRW Management
+992311|MAMZA, EDROL S.|Central NRW Management
+992312|IBASCO, NORRIS RICHARD D.|Central NRW Management
+992317|FABROA, CIARA EMBER B.|Program Management
+992318|ASUNCION, JAYROLD C.|Central NRW Management
+992325|BASUEL, REYNALD A.|Wastewater Management
+992331|IMPERIAL, GERALD C.|Technical Services
+992332|PADUA, MARK LESTER G.|Program Management
+992341|LEGASTE, NIÑO ANGEL A.|Central NRW Management
+992345|BRUZA, DEO EMMANUEL L.|Program Management
+992346|BANLASAN, JOSEPH BRIANE A.|Program Management
+992357|BATISLA-ONG, ARVIE B.|Central NRW Management
+992360|TAYCO, MARK ANTHONY D.|Central NRW Management
+992361|REVILLA, RYAN C.|Central NRW Management
+992362|MORENO, ALIXES D.|Central NRW Management
+992363|BAUTISTA, RICHARD JOHN Q.|Central NRW Management
+992364|NICDAO, JOSE WILFREDO D.|Central NRW Management
+992371|SANTIAGO, MATTHEW D.|Central NRW Management
+992372|LAUZON, ADRIAN P.|Central NRW Management
+992373|ACEDERA, MARION L.|Central NRW Management
+992374|INOCENO, CHESTER S.|Central NRW Management
+992375|MENESES, ROBBY G.|Central NRW Management
+992376|BIBAT, JEROME Q.|Central NRW Management
+992379|SANTOS, ELVIR LEEÑEL M.|Central NRW Management
+992380|ANSAY, ADRIAN A.|Central NRW Management
+992381|LIZARONDO, BENJIE T.|Central NRW Management
+992382|DAYON, RENANTE M.|Central NRW Management
+992387|LIM, ANGELO L.|Central NRW Management
+992388|ENAJE, MARK VERGEL T.|Central NRW Management
+992389|MANA-AY, CHARLESON B.|Central NRW Management
+992390|ABAD, KEN JHARENE P.|Central NRW Management
+992392|ESPAÑOLA, GERWIN C.|Central NRW Management
+992394| BANALAGAY, MADELYN F.|Technical Services
+992395| RECOCO, LYN JASMINE P.|Technical Services
+992396|SEÑAR, JASON JAKE L.|Central NRW Management
+992400|BUCAOTO, RODRIGO JR. P.|Central NRW Management
+992401|NAVALES, NELSON JR. F.|Central NRW Management
+992403|CARREON, SHIELA JEAN C.|Central NRW Management
+992404|CUEVAS, ROMMEL T.|Central NRW Management
+992405|DINEROS, ROCHELLE MARIE C.|Central NRW Management
+992406|ABITO, JUDD MICHAEL N.|Business Area Operations
+992407|PELOTON, JOHN CARLOUS G.|Central NRW Management
+992408|FAJARDO, MARIONE T.|Central NRW Management
+992409|TRILLANA, KELVIN JOHN A.|Central NRW Management
+992410|COQUIA, NELMER JAY P.|Central NRW Management
+992411|SALAZAR, CHRISTINE ANN A.|Business Area Operations
+992413|RIVERA, LEOPOLDO III P.|Program Management
+992414|BERCES, PAULO V.|Technical Services
+992415|TORRES, KATHLEEN KISHIA D.|Central NRW Management
+992417|BANGUILAN, ROMNICK M.|Central NRW Management
+992418|ACACIO, CHRISTOPHER G.|Central NRW Management
+992420|BERMILLO, ROMMIL C.|Central NRW Management
+992421|SEMBRANO, MARIA CECILIA M.|Business Area Operations
+992422|BASA, MONALIZA C.|Business Area Operations
+992423|CABANGON, ANDY HOMER O.|Central NRW Management
+992424|LOPEZ, PETER ARNOLD I.|Business Area Operations
+992425|SAWAL, FRANCIS J.|Technical Services
+992426|TADIO-AN, JUNARD B.|Central NRW Management
+992429|MALUBAY, LAARNIE C.|Program Management
+992434|MORALES, JIN S.|Business Area Operations
+992435|PANIZAL, RICHARD D.|Business Area Operations
+992437|DY, CLADYL MARIE D.|Business Area Operations
+992438|DIAZ, DAN ERIK M.|Business Area Operations
+992441|ESPAÑOL, GHECAR  .|Central NRW Management
+992442|BANIAGA, VJ HYRUN  .|Central NRW Management
+992443|INTERIOR, MARK ANTHONY F.|Central NRW Management
+992444|RAMOS, RUSSEL G.|Central NRW Management
+992445|ESTRELLA, KRISTINE T.|Business Area Operations
+992448|VILLAREAL, DEREWHADZNA J.|Program Management
+992451|FLORESCA, JOAN R.|Program Management
+992452|BARRION, CARLOS MIGUEL C.|Program Management
+992453|VILLAVIRAY, MARK WILIAM S.|Program Management
+992455|ABAÑO, ANGIELYN O.|Central NRW Management
+992457|RUECA, JOHN JACOB M.|Central NRW Management
+992459|YABUT, DONNEIL FREDERICHE O.|Information Technology Services
+992460|DELORINO, IRISH I.|Central NRW Management
+992461|APOSTOL, RALPH SMILE F.|Program Management
+992462|DIOSANA, ROBELL G.|Technical Services
+992464|LIWANAG, JOHN CARLO M.|Technical Services
+992465|BARTOLAY, JULIUS P.|Technical Services
+992466|BINUYA, FHER BRYAN H.|Program Management
+992475|CASTILLO, JONATHAN C.|Technical Services
+992479| STA. ROMANA, CHRISTINE ANNE M.|Program Management
+992480|CANDA, CARLO MIGUEL R.|Central NRW Management
+992481|SILVEDERIO, GEORGE M.|Central NRW Management
+992482|DE GUZMAN, ARWYNE B.|Central NRW Management
+992483|BALACANAO, DIANE M.|Central NRW Management
+992484|AQUINO, MARY L.|Business Area Operations
+992485|GUZMAN, LORAINE MAE P.|Central NRW Management
+992486|ALVAREZ, JOHN GLENN M.|Central NRW Management
+992487|GARCIA, THONI JAY A.|Central NRW Management
+992493|SANTURDIO, CYRIL B.|Central NRW Management
+992494|SEBASTIAN, PIERRE PAULO S.|Program Management
+992495|COSTALES, MARK LOWIE D.|Central NRW Management
+992499|LAROYA, OHMAR V.|Program Management
+992500|BERNAL, MARK ISRAEL T.|Program Management
+992506|VEGILLA, MYRA MAE A.|Central NRW Management
+992507|AZCUNA, FELIPE R.|Central NRW Management
+992508|BAIS, ROVY ROY P.|Technical Services
+992509|CARRIEDO, MARK ANTHONY N.|Central NRW Management
+992510|MIRASOL, JOMAR S.|Technical Services
+992512|MATIAS, MELVIN D.|Central NRW Management
+992513|EVANGELISTA, RONNIE O.|Technical Services
+992514|ROMULO, JAMES RANSEL B.|Technical Services
+992515|DOMINGO, GEL ALDWIN S.|Program Management
+992516|ONG, RENDELINNE M.|Central NRW Management
+992517|MELITANTE, RAYMUND PETER S.|Central NRW Management
+992518|BARTOLINI, JOVANI D.|Central NRW Management
+992519|ALMOGUERA, CHRISTIAN JOE P.|Central NRW Management
+992520|SALINAS, MARCK ANTONI B.|Technical Services
+992521|ROSARIO, MICHAEL JERRY C.|Technical Services
+992522|IBARRETA, NICKY EMERSON S.|Technical Services
+992523|MANLAPAZ, MELANIE O.|Program Management
+992530|LIBRES, LEONARDO P.|Central NRW Management
+992531|CAÑETE, MARILOU C.|Central NRW Management
+992532|SANTIAGO, MARK ANTHONY D.|Technical Services
+992533|LEBIOS, JOHN HENRY P.|Central NRW Management
+992536|PONCE, MHELBERT G.|Program Management
+992537|JIMENEZ, RONALD O.|Program Management
+992538|CRUZ, JONATHAN ROSS P.|Business Area Operations
+992541|GENIO, MARC CAESAR D.|Central NRW Management
+992552|ODTOJAN, OLIVER M.|Central NRW Management
+992553|FLORES, CARLO P.|Program Management
+992554|CRISTOBAL, JAY ELDRICK A.|Program Management
+992556|SIWALA, VINCENT B.|Central NRW Management
+992557|AGUSTIN, BYAN LOUIE P.|Program Management
+992564|CANDA, MA. CECILIA A.|Central NRW Management
+992566|CAROLINO, MARCOS JUSTIN II M.|Business Area Operations
+992567|UY, RALPH GIORDAN M.|Program Management

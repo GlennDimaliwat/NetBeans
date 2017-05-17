@@ -1,0 +1,13 @@
+#for tests only !
+#Thu Oct 25 15:27:15 CST 2012
+jco.client.lang=en
+jco.destination.peak_limit=10
+jco.client.client=500
+#Removed for GitHub
+jco.client.passwd=
+#Removed for GitHub
+jco.client.user=
+jco.client.sysnr=00
+jco.destination.pool_capacity=3
+#Removed for GitHub
+jco.client.ashost=

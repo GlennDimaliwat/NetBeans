@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="GlennMail.jnlp">
+  <information>
+    <title>GlennMail</title>
+    <vendor>INDRA</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="GlennMail.jar" size="21656" download="eager" />
+    <jar href="lib/dsn.jar" size="10419" download="eager" />
+    <jar href="lib/imap.jar" size="136055" download="eager" />
+    <jar href="lib/mail.jar" size="356519" download="eager" />
+    <jar href="lib/mailapi.jar" size="186459" download="eager" />
+    <jar href="lib/pop3.jar" size="21043" download="eager" />
+    <jar href="lib/smtp.jar" size="23730" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="GlennMail" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="glennmail.GlennMail"  name="GlennMail" />
+  <update check="always"/>
+</jnlp>

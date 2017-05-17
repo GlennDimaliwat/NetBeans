@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="253.0" prefWidth="400.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="indexmagicfx.FXMLDocumentController">
+  <children>
+    <Button fx:id="button" layoutX="47.0" layoutY="72.0" onAction="#checkIndexesAction" prefHeight="36.0" prefWidth="307.0" text="Check Indexes for Uniqueness and Existence" />
+    <Label fx:id="label" layoutX="126.0" layoutY="159.0" minHeight="16.0" minWidth="69.0" />
+    <Button layoutX="47.0" layoutY="115.0" mnemonicParsing="false" onAction="#checkTableFieldsRapidMartAction" prefHeight="36.0" text="Check Table Fields for Existence and Accuracy (Rapid Mart)" />
+    <Button layoutX="47.0" layoutY="157.0" mnemonicParsing="false" onAction="#checkTableFieldsDEFSAction" prefHeight="36.0" prefWidth="307.0" text="Check Table Fields for Existence and Accuracy (DEFS)" />
+    <Button layoutX="47.0" layoutY="199.0" minHeight="15.999900000002526" mnemonicParsing="false" onAction="#generateIndexScriptAction" prefHeight="36.0" prefWidth="307.0" text="Generate Create Index Script" />
+    <TextField fx:id="filePath" layoutX="98.0" layoutY="38.0" prefWidth="256.0" text="C:\Users\INDRA\Documents\BI_Phase2_Index.xls" />
+    <Label layoutX="47.0" layoutY="38.0" prefHeight="20.0" prefWidth="51.0" text="File Path:" />
+    <MenuBar layoutX="0.0" layoutY="0.0" prefWidth="400.0">
+      <menus>
+        <Menu mnemonicParsing="false" text="File">
+          <items>
+            <MenuItem mnemonicParsing="false" text="Close" />
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Edit">
+          <items>
+            <MenuItem mnemonicParsing="false" text="Delete" />
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Help">
+          <items>
+            <MenuItem mnemonicParsing="false" text="About" />
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+  </children>
+</AnchorPane>
